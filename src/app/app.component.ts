@@ -43,9 +43,12 @@ export class AppComponent implements OnInit {
       }
     }
 
-    if(this.streakMap.has(this.currentQuestionIndex)){
-      const streakNumber = allCorrect ? this.streakMap.get(this.currentQuestionIndex)! + 1 : 0;
-        this.streakMap.set(this.currentQuestionIndex, streakNumber);
+    if (this.streakMap.has(this.currentQuestionIndex)) {
+      let streakNumber = allCorrect ? this.streakMap.get(this.currentQuestionIndex)! + 1 : 0;
+
+      if (streakNumber == 3) streakNumber += 4; //ab 3 gilt frage als gelernt und sollte seltener drankommen
+
+      this.streakMap.set(this.currentQuestionIndex, streakNumber);
     } else {
       this.streakMap.set(this.currentQuestionIndex, allCorrect ? 1 : 0);
     }

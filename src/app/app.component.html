@@ -26,7 +26,7 @@
         @let streak = getPointsForCurrentQuestion();
         <span class="previous-points">
         @if(streak > 0) {
-          Diese Frage hast du nun {{streak}} mal hintereinander richtig beantwortet
+          Diese Frage hast du nun {{streak < 3 ? streak : streak - 4}} mal hintereinander richtig beantwortet
         }
           </span><br>
         <button (click)="nextRandomQuestion()">Nächste Frage ›</button>

@@ -1,0 +1,109 @@
+:host {
+  font-size: 16px;
+  font-family: system-ui;
+  color: #333;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  font-family: system-ui;
+  font-size: 16px;
+
+  padding: 0.5em 1.2em;
+  cursor: pointer;
+  transition: background-color 0.27s;
+}
+
+button:hover {
+  background-color: #8cc75b;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+
+.answer-wrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+
+  label {
+    flex-grow: 1;
+    cursor: pointer;
+  }
+
+  input {
+    cursor: pointer;
+    transform: scale(1.4);
+  }
+
+  cursor: pointer;
+
+
+  &:hover {
+    background-color: lightgray;
+  }
+}
+
+.previous-points {
+  font-size: 16px;
+  color: #424242;
+}
+
+.correct {
+  color: #5a9142
+}
+
+.show-correct {
+  color: #5a9142;
+  margin-left: 26px;
+  font-size: 16px;
+  opacity: 0
+}
+
+.wrong-show-correct .show-correct {
+  opacity: 1;
+}
+
+.wrong-show-correct,
+.wrong {
+  color: red;
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.option-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.prompt {
+  border-radius: 12px;
+  padding: 16px;
+  background: #dedede;
+}
+
+.learned-amount {
+  padding: 3px 5px;
+  border-radius: 12px;
+  &.red {
+    background: #ffa1a1;
+  }
+  &.yellow {
+    background: #ffed9f;
+  }
+  &.green {
+    background: #c6ff9d;
+  }
+}

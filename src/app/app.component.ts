@@ -13,7 +13,7 @@ import { AsyncPipe } from '@angular/common';
 export class AppComponent implements OnInit {
   title = 'para11quiz';
 
-  questions = [allQuestions[0], allQuestions[1], allQuestions[2], allQuestions[3]];
+  questions = [...allQuestions];
 
   streakMap = new Map<number, number>();
   currentQuestionIndex = this.getBiasedRandomQuestionId();

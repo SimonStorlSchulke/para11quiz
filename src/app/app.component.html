@@ -40,14 +40,16 @@
 
   @if(streaksPopup) {
     <div class="streaks-info">
-      <div class="close" (click)="closeStreaks()">X</div>
-      <h2>Streaks</h2>
-      <span>Zeigt an, wie oft hintereinander jede Frage zuletzt richtig beantwortet wurde.</span>
-      @for (entry of streakMap; track $index) {
-        @if(entry[1] > 0) {
-          <span class="question">{{questions[entry[0]].prompt}} &nbsp;&nbsp;<b class="streak-num" [class.lightgreen]="entry[1] == 2" [class.green]="entry[1] > 2">{{entry[1]}}x</b></span>
+      <div class="wrapper" style="display: flex; flex-direction: column">
+        <div class="close" (click)="closeStreaks()">X</div>
+        <h2>Streaks</h2>
+        <span>Zeigt an, wie oft hintereinander jede Frage zuletzt richtig beantwortet wurde.</span>
+        @for (entry of streakMap; track $index) {
+          @if(entry[1] > 0) {
+            <span class="question"><span class="streak-prompt">{{questions[entry[0]].prompt}}</span> &nbsp;&nbsp;<b class="streak-num" [class.lightgreen]="entry[1] == 2" [class.green]="entry[1] > 2">{{entry[1]}}x</b></span>
+          }
         }
-      }
+      </div>
     </div>
   }
 }

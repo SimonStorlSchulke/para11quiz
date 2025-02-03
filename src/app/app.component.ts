@@ -24,6 +24,7 @@ export class AppComponent implements OnInit {
 
 
   hasSubmitted = false;
+  streaksPopup = false;
 
   ngOnInit(): void {
     const save = localStorage.getItem('streakMap') ?? "[]";
@@ -156,5 +157,13 @@ export class AppComponent implements OnInit {
     } else {
       this.checkedAnswers.delete(id);
     }
+  }
+
+  openStreaks() {
+    this.streaksPopup = true;
+  }
+
+  closeStreaks() {
+    this.streaksPopup = false;
   }
 }

@@ -6,7 +6,7 @@ export type Question = {
 function q(prompt: string, answers: string[]): Question {
   return {
     prompt,
-    answers, //mark correct answers with `x ` prefix
+    answers, //mark correct answers with `#` prefix
   }
 }
 

@@ -1,6 +1,10 @@
 @if (currentQuestion$ | async; as question) {
   <div class="wrapper">
-    <h2>§11 Tester</h2>
+    <div class="header">
+      <h2>§11 Tester</h2>
+      <button (click)="openStreaks()">Streaks anzeigen</button>
+    </div>
+
     <span>Bisher hast du <span class="learned-amount {{getLearnedQuestionsColor()}}">{{getLearnedQuestionsAmount()}} von {{questions.length}} Fragen</span> gelernt <br>
       <span style="color: #888; font-size: 14px;" >(Frage gilt als gelernt, wenn sie die letzten 3 male richtig beantwortet wurde)</span></span>
     <br><br>
@@ -32,6 +36,18 @@
         <button (click)="nextRandomQuestion()">Nächste Frage ›</button>
       }
     </div>
-
   </div>
+
+  @if(streaksPopup) {
+    <div class="streaks-info">
+      <div class="close" (click)="closeStreaks()">X</div>
+      <h2>Streaks</h2>
+      <span>Zeigt an, wie oft hintereinander jede Frage zuletzt richtig beantwortet wurde.</span>
+      @for (entry of streakMap; track $index) {
+        @if(entry[1] > 0) {
+          <span class="question">{{questions[entry[0]].prompt}} &nbsp;&nbsp;<b class="streak-num" [class.lightgreen]="entry[1] == 2" [class.green]="entry[1] > 2">{{entry[1]}}x</b></span>
+        }
+      }
+    </div>
+  }
 }

@@ -93,12 +93,12 @@ export class AppComponent implements OnInit {
   getBiasedRandomQuestionId(): number {
     let weightedQuestions: { index: number; weight: number }[] = [];
 
-    this.questions.forEach((_, i) => {
+    for (let i = 0; i < this.questions.length; i++){
       const streakBias = this.streakMap.get(i) ?? 0; // Default to 0 if not in the map
       const weight = 1 / (1 + streakBias); // Inverse weight: More correct answers → Lower weight
 
       weightedQuestions.push({ index: i, weight });
-    });
+    }
 
     const totalWeight = weightedQuestions.reduce((sum, q) => sum + q.weight, 0);
 
@@ -120,7 +120,7 @@ export class AppComponent implements OnInit {
     let newQuestion = this.getBiasedRandomQuestionId();
 
     // retry twice to not get the same question twice - ugly and stupid but why not.
-    if(newQuestion == this.currentQuestionIndex) newQuestion = this.getBiasedRandomQuestionId();
+    if(newQuestion == this.currentQuestionIndex || this.streakMap.get(newQuestion)! > 2) newQuestion = this.getBiasedRandomQuestionId();
     if(newQuestion == this.currentQuestionIndex) newQuestion = this.getBiasedRandomQuestionId();
 
     this.currentQuestionIndex = newQuestion;

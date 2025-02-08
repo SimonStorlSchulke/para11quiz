@@ -14,6 +14,7 @@ export class AppComponent implements OnInit {
   title = 'para11quiz';
 
   questions = [...allQuestions];
+  //questions = [allQuestions[0], allQuestions[1], allQuestions[2], allQuestions[3], allQuestions[4]];
 
   streakMap = new Map<number, number>();
   currentQuestionIndex = this.getBiasedRandomQuestionId();
@@ -94,7 +95,11 @@ export class AppComponent implements OnInit {
     let weightedQuestions: { index: number; weight: number }[] = [];
 
     for (let i = 0; i < this.questions.length; i++){
-      const streakBias = this.streakMap.get(i) ?? 0; // Default to 0 if not in the map
+      let streakBias = this.streakMap.get(i) ?? 0; // Default to 0 if not in the map
+
+
+      if(streakBias > 4) streakBias = 100000;
+
       const weight = 1 / (1 + streakBias); // Inverse weight: More correct answers → Lower weight
 
       weightedQuestions.push({ index: i, weight });

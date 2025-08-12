@@ -1,0 +1,27 @@
+form {
+  .form-group {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+
+    label, input {
+      padding: 0.5rem;
+      cursor: pointer;
+
+      &:hover {
+        color: #1897f0;
+      }
+    }
+  }
+}
+
+button.smol {
+  padding: 0.2rem;
+  background-color: transparent;
+  text-decoration: underline;
+
+  &:hover {
+    color: #2860d8;
+  }
+}

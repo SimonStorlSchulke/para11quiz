@@ -1,0 +1,69 @@
+@if (currentQuestion$ | async; as question) {
+  <div class="wrapper">
+    <div class="header">
+      <h2>Hundequiz</h2>
+      <button (click)="openStreaks()">Streaks anzeigen</button>
+    </div>
+
+    <span>Bisher hast du <span class="learned-amount {{getLearnedQuestionsColor()}}">{{getLearnedQuestionsAmount()}} von {{questions.length}} Fragen</span> gelernt <br>
+      <span style="color: #888; font-size: 14px;" >(Frage gilt als gelernt, wenn sie die letzten 3 male richtig beantwortet wurde)</span></span>
+    <br><br>
+    <div class="prompt">
+      <span class="category-tag" [style.background-color]="question.categoryColor">{{question.categoryName}}</span>
+      <b>{{currentQuestionIndex + 1}} {{ question.prompt }}</b><br><br>
+      <div class="answers">
+        @for (answer of question.answers; track $index) {
+          <div class="option-wrapper" [class]="getAnswerState($index)">
+            <div class="answer-wrapper">
+              <input [disabled]="hasSubmitted" type="checkbox" id="answer-{{$index}}" name="scales" [checked]="checkedAnswers.has($index)" (change)="checkAnswer($event, $index)"/>
+              <label for="answer-{{$index}}">{{ displayAnswer(answer) }}</label>
+            </div>
+            <span class="show-correct">wäre richtig gewesen</span>
+          </div>
+        }
+      </div>
+      @if (!hasSubmitted) {
+        <span></span><br>
+        <button (click)="submit()">Abgeben</button>
+      }
+
+      @if (hasSubmitted) {
+        @let streak = getPointsForCurrentQuestion();
+        <span class="previous-points">
+        @if(streak > 0) {
+          Diese Frage hast du nun {{streak < 3 ? streak : streak - 4}} mal hintereinander richtig beantwortet
+        }
+          </span><br>
+        <button (click)="nextRandomQuestion()">Nächste Frage ›</button>
+      }
+    </div>
+  </div>
+
+  @if(streaksPopup) {
+    <div class="streaks-info">
+      <div class="wrapper" style="display: flex; flex-direction: column">
+        <div class="close" (click)="closeStreaks()">X</div>
+        <h2>Streaks</h2>
+        <span>Zeigt Für die Kategoriekombination <b>{{categories.join(', ')}}</b> an, wie oft hintereinander jede Frage zuletzt richtig beantwortet wurde.</span>
+        @for (entry of streakMap; track $index) {
+          @if(entry[1] > 0) {
+            <span class="question">
+              <span class="streak-category-tag" [style.background-color]="questions[entry[0]].categoryColor">{{questions[entry[0]].categoryName}}</span>
+              <span class="streak-prompt">{{questions[entry[0]].prompt}}</span> &nbsp;&nbsp;
+              <b class="streak-num" [class.lightgreen]="entry[1] == 2" [class.green]="entry[1] > 2">{{entry[1]}}x</b>
+            </span>
+          }
+        }
+      </div>
+    </div>
+  }
+} @else {
+  <div class="wrapper">
+    <h2>Falsche Kategorie</h2>
+    <p>Eine der Kategorien <b>{{categories}}</b> existiert nicht. Verfügbare Kategorien sind:<br> <b>{{questionCategories}}</b></p>
+  </div>
+}
+<div class="wrapper">
+  <br>
+  <a [routerLink]="''"><button>‹ Zurück zur Kategorieauswahl</button></a>
+</div>

@@ -1,0 +1,25 @@
+<div class="wrapper">
+  <h2>Hundequiz - Kategorien auswählen</h2>
+  <p>Wähle die Kategorien aus, mit denen du das Quiz starten willst. Dein Fortschritt (Streaks) wird für jede Kombination von Kategorien gesondert gespeichert.</p>
+  <form (change)="updateSubmitEnabled()" [formGroup]="checkboxForm" (ngSubmit)="submit()">
+    @for (name of categories; track $index) {
+    <div class="form-group" >
+        <input type="checkbox" [formControlName]="name" [name]="name" [id]="name">
+        <label [for]="name">{{ questionCategories.get(name)?.name }}</label>
+    </div>
+    }
+    <br>
+    <button [disabled]="!submitEnabled" [style.pointer-events]="submitEnabled ? 'unset' : 'none'" type="submit">Anfangen</button>
+    <br>
+    <br>
+  </form>
+    @if(!showResetStreaksMap) {
+      <button class="smol" [disabled]="!submitEnabled" [style.pointer-events]="submitEnabled ? 'unset' : 'none'" (click)="showResetStreaks(true)">Fortschritt für gewählte Kategoriekombination zurücksetzen</button>
+    } @else {
+        <span>Fortschritt für ausgewählte Kategoriekombination wirklich zurücksetzen?</span>
+        <div style="display: flex; gap: 12px; align-items: center">
+          <button style="background: #fb5454;" (click)="resetStreaks()">JA!</button>
+          <button (click)="showResetStreaks(false)">Nein.</button>
+        </div>
+    }
+</div>

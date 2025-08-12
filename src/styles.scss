@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+.wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+body {
+  font-size: 16px;
+  font-family: system-ui;
+  color: #333;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  font-family: system-ui;
+  font-size: 16px;
+  color: #000;
+
+  &:disabled {
+    color: #aaa;
+  }
+
+  padding: 0.5em 1.2em;
+  cursor: pointer;
+  transition: background-color 0.27s;
+}
+
+button:hover {
+  background-color: #8cc75b;
+}

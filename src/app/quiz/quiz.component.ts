@@ -122,6 +122,10 @@ export class QuizComponent implements OnInit {
     return "none";
   }
 
+  getIsSingleChoice() {
+    return this.currentQuestion$!.value.answers.filter(a => a.startsWith("#")).length == 1;
+  }
+
   getBiasedRandomQuestionId(): number {
     let weightedQuestions: { index: number; weight: number }[] = [];
 

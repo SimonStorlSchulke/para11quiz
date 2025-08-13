@@ -1,6 +1,6 @@
 import { Question, q } from "./questions";
 
-export const questionsPara11: Question[] = [
+export const questionsPara11Abs1Nr358a: Question[] = [
   q(`Woran erkennen Sie, dass Hunde miteinander spielen?`, [
 
     `#Sie zeigen sich entspannt und locker und sie animieren das Gegenüber gelegentlich durch eine Spielaufforderung.`,

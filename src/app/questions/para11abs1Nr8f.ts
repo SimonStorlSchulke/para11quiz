@@ -1063,847 +1063,782 @@ export const para11abs1Nr8f: Question[] = [
     `Durch Übertragung mithilfe von Lichtwellen.`,
     `#Durch elektrische Erregungsübertragung.`,
   ]),
-  q(`Welche Knochen bilden das Hüftgelenk? `, [
+  q(`Welche Knochen bilden das Hüftgelenk?`, [
 
-    `Oberschenkelhals und Beckenkopf. `,
-    `Kreuzbein und Darmbein. `,
-    `#Oberschenkelkopf und Beckenpfanne. `,
-
-
-  ]),
-  q(`Die physiologische Atemfrequenz bei einem erwachsenen Labrador im Ruhezustand beträgt `, [
-
-    `#10 bis 30 Atemzüge/min. `,
-    `50 bis 60 Atemzüge/min. `,
-    `60 bis 70 Atemzüge/min. `,
+    `Oberschenkelhals und Beckenkopf.`,
+    `Kreuzbein und Darmbein.`,
+    `#Oberschenkelkopf und Beckenpfanne.`,
 
 
   ]),
-  q(`Die physiologische Herzfrequenz bei einem erwachsenen Labrador im Ruhezustand beträgt `, [
+  q(`Die physiologische Atemfrequenz bei einem erwachsenen Labrador im Ruhezustand beträgt`, [
 
-    `20 bis 50 Schläge/min. `,
-    `160 bis 180 Schläge/min. `,
-    `#60 bis 120 Schläge/min. `,
-    `130 bis 150 Schläge/min. `,
-
-
-  ]),
-  q(`Hunde sind ... `, [
-    `Sohlengänger. `,
-    `Zehenspitzengänger. `,
-    `Ballengänger. `,
-    `#Zehengänger. `,
+    `#10 bis 30 Atemzüge/min.`,
+    `50 bis 60 Atemzüge/min.`,
+    `60 bis 70 Atemzüge/min.`,
 
 
   ]),
-  q(`Was bezeichnet man als Phänotyp? `, [
+  q(`Die physiologische Herzfrequenz bei einem erwachsenen Labrador im Ruhezustand beträgt`, [
 
-    `Die genetische Ausstattung eines Individuums. `,
-    `#Das Erscheinungsbild eines Individuums. `,
-    `Die vererbbaren Defekte eines Individuums. `,
-
-
-  ]),
-  q(`Welche der folgenden Aussagen, stets relativ zu der Körpergröße gesehen, treffen zu? `, [
-    ` `,
-    `Das Gehirn von Haustieren ist größer als das Gehirn ihrer wilden Stammart. `,
-    `Das Gehirn von Haustieren ist genauso groß wie das Gehirn ihrer wilden Stammart. `,
-    `#Das Gehirn von Haustieren ist kleiner als das Gehirn ihrer wilden Stammart. `,
+    `20 bis 50 Schläge/min.`,
+    `160 bis 180 Schläge/min.`,
+    `#60 bis 120 Schläge/min.`,
+    `130 bis 150 Schläge/min.`,
 
 
   ]),
-  q(`Wann findet der normale Hodenabstieg statt? `, [
-
-    `Vor der Geburt des Welpen. `,
-    `In der ersten Lebenswoche. `,
-    `Im 5. bis 6. Lebensmonat. `,
-    `#Zwischen der 4. und 10. Lebenswoche. `,
-
-
-  ]),
-  q(`Welche Bestandteile gehören zum Skelettmuskelsystem? `, [
-
-    `Limbische System. `,
-    `#Sehnenscheiden. `,
-    `Zähne. `,
-    `Lymphknoten. `,
+  q(`Hunde sind ...`, [
+    `Sohlengänger.`,
+    `Zehenspitzengänger.`,
+    `Ballengänger.`,
+    `#Zehengänger.`,
 
 
   ]),
-  q(`Wie sind die Schultergliedmaße mit dem Rumpf verbunden? `, [
+  q(`Was bezeichnet man als Phänotyp?`, [
 
-    `Durch ein Gelenk zwischen Schulterblatt und Rippenansatz. `,
-    `Durch das knöcherne Schlüsselbein wie beim Menschen. `,
-    `#Sie sind nur muskulös mit dem Rumpf verbunden. `,
-    `Sie sind direkt am Schultergelenk mit dem Brustbein verbunden. `,
-
-
-  ]),
-  q(`Haben Hunde einen Blinddarm? `, [
-
-    `#Ja, ein Blinddarm ist vorhanden, aber kein Appendix (Wurmfortsatz). `,
-    `Nein, der Hund hat keinen Blinddarm. `,
-    `Ja, der Hund hat einen Blinddarm und einen Appendix (Wurmfortsatz). `,
+    `Die genetische Ausstattung eines Individuums.`,
+    `#Das Erscheinungsbild eines Individuums.`,
+    `Die vererbbaren Defekte eines Individuums.`,
 
 
   ]),
-  q(`Welche Aussagen zum Organ "Milz" treffen zu? `, [
-
-    `Sie ist aus drei Schichten aufgebaut. `,
-    `#Sie dient beim Hund als Blutspeicher. `,
-    `Ihre einzelnen Komponenten bilden einen Reflexbogen. `,
-    `Sie befindet sich in der Brusthöhle. `,
+  q(`Welche der folgenden Aussagen, stets relativ zu der Körpergröße gesehen, treffen zu?`, [
+    `Das Gehirn von Haustieren ist größer als das Gehirn ihrer wilden Stammart.`,
+    `Das Gehirn von Haustieren ist genauso groß wie das Gehirn ihrer wilden Stammart.`,
+    `#Das Gehirn von Haustieren ist kleiner als das Gehirn ihrer wilden Stammart.`,
 
 
   ]),
-  q(`Was versteht man unter dem "genetischen Code"? `, [
+  q(`Wann findet der normale Hodenabstieg statt?`, [
 
-    `Ein Codewort zur Abfrage der genetischen Information. `,
-    `Die bei jedem Individuum gleiche Abfolge von genetischen Defekten. `,
-    `Der Startpunkt auf jedem Gen zur Vervielfältigung. `,
-    `#Die Abfolge der Basen auf der DNA. `,
-
-
-  ]),
-  q(`Wer besitzt nicht 78 Chromosomen? `, [
-
-    `Hund. `,
-    `#Fuchs. `,
-    `Kojote. `,
-    `Goldschakal. `,
+    `Vor der Geburt des Welpen.`,
+    `In der ersten Lebenswoche.`,
+    `Im 5. bis 6. Lebensmonat.`,
+    `#Zwischen der 4. und 10. Lebenswoche.`,
 
 
   ]),
-  q(`Wie nennt sich eine für den Wolf typische Gangart? `, [
+  q(`Welche Bestandteile gehören zum Skelettmuskelsystem?`, [
 
-    `Geschnürtes Gehen. `,
-    `Hasengalopp. `,
-    `#Geschnürter Trab. `,
-    `Geflochtener Galopp. `,
-
-
-  ]),
-  q(`Ihr Hund hat sein Futter ganz normal gefressen und spielt unmittelbar danach eine Zeit lang im Garten, wirkt jetzt aber zunehmend apathisch. Er versucht erfolglos sich zu erbrechen und sein Bauch wirkt prall und aufgetrieben. Welche der aufgeführten Möglichkeiten wäre richtig? `, [
-
-    `Er frisst häufig zu schnell, also warte ich bis zum nächsten Tag, ob der Bauchumfang sich wieder normalisiert, ansonsten gehe ich zum Tierarzt. `,
-    `Ich gebe dem Hund einen Tag lang Fencheltee zu trinken, da er bestimmt Blähungen hat. `,
-    `#Ich fahre sofort mit dem Hund zum Tierarzt, da es sich um eine Magendrehung handeln könnte. `,
-    `Ich biete dem Hund den ganzen Tag etwas Haferschleim an, um seinen verstimmten Magen zu beruhigen. `,
+    `Limbische System.`,
+    `#Sehnenscheiden.`,
+    `Zähne.`,
+    `Lymphknoten.`,
 
 
   ]),
-  q(`Ihr Hund ist in eine Scherbe getreten und hat eine tiefe, stark blutende Schnittwunde am Ballen. Welche der aufgeführten Möglichkeiten wäre die richtige? `, [
+  q(`Wie sind die Schultergliedmaße mit dem Rumpf verbunden?`, [
 
-    `Ich binde nur das Bein oberhalb der Wunde mit einem Band fest ab, damit die Blutung zum Stillstand kommt. `,
-    `#Ich mache einen provisorischen Druckverband mit sauberem Verbandsmaterial und konsultiere einen Tierarzt. `,
-    `Ich mache einen Verband und schaue mir in zwei Tagen die Wunde noch einmal an, um zu beurteilen, ob sie doch noch genäht werden muss. `,
-    `Ich lasse die Wunde offen, da Bluten eine Infektion verhindert, und beobachte sie über die nächsten Tage gut. `,
+    `Durch ein Gelenk zwischen Schulterblatt und Rippenansatz.`,
+    `Durch das knöcherne Schlüsselbein wie beim Menschen.`,
+    `#Sie sind nur muskulös mit dem Rumpf verbunden.`,
+    `Sie sind direkt am Schultergelenk mit dem Brustbein verbunden.`,
+
+
+  ]),
+  q(`Haben Hunde einen Blinddarm?`, [
+
+    `#Ja, ein Blinddarm ist vorhanden, aber kein Appendix (Wurmfortsatz).`,
+    `Nein, der Hund hat keinen Blinddarm.`,
+    `Ja, der Hund hat einen Blinddarm und einen Appendix (Wurmfortsatz).`,
+
+
+  ]),
+  q(`Welche Aussagen zum Organ "Milz" treffen zu?`, [
+
+    `Sie ist aus drei Schichten aufgebaut.`,
+    `#Sie dient beim Hund als Blutspeicher.`,
+    `Ihre einzelnen Komponenten bilden einen Reflexbogen.`,
+    `Sie befindet sich in der Brusthöhle.`,
+
+
+  ]),
+  q(`Was versteht man unter dem "genetischen Code"?`, [
+
+    `Ein Codewort zur Abfrage der genetischen Information.`,
+    `Die bei jedem Individuum gleiche Abfolge von genetischen Defekten.`,
+    `Der Startpunkt auf jedem Gen zur Vervielfältigung.`,
+    `#Die Abfolge der Basen auf der DNA.`,
+
+
+  ]),
+  q(`Wer besitzt nicht 78 Chromosomen?`, [
+
+    `Hund.`,
+    `#Fuchs.`,
+    `Kojote.`,
+    `Goldschakal.`,
+
+
+  ]),
+  q(`Wie nennt sich eine für den Wolf typische Gangart?`, [
+
+    `Geschnürtes Gehen.`,
+    `Hasengalopp.`,
+    `#Geschnürter Trab.`,
+    `Geflochtener Galopp.`,
+
+
+  ]),
+  q(`Ihr Hund hat sein Futter ganz normal gefressen und spielt unmittelbar danach eine Zeit lang im Garten, wirkt jetzt aber zunehmend apathisch. Er versucht erfolglos sich zu erbrechen und sein Bauch wirkt prall und aufgetrieben. Welche der aufgeführten Möglichkeiten wäre richtig?`, [
+
+    `Er frisst häufig zu schnell, also warte ich bis zum nächsten Tag, ob der Bauchumfang sich wieder normalisiert, ansonsten gehe ich zum Tierarzt.`,
+    `Ich gebe dem Hund einen Tag lang Fencheltee zu trinken, da er bestimmt Blähungen hat.`,
+    `#Ich fahre sofort mit dem Hund zum Tierarzt, da es sich um eine Magendrehung handeln könnte.`,
+    `Ich biete dem Hund den ganzen Tag etwas Haferschleim an, um seinen verstimmten Magen zu beruhigen.`,
+
+
+  ]),
+  q(`Ihr Hund ist in eine Scherbe getreten und hat eine tiefe, stark blutende Schnittwunde am Ballen. Welche der aufgeführten Möglichkeiten wäre die richtige?`, [
+
+    `Ich binde nur das Bein oberhalb der Wunde mit einem Band fest ab, damit die Blutung zum Stillstand kommt.`,
+    `#Ich mache einen provisorischen Druckverband mit sauberem Verbandsmaterial und konsultiere einen Tierarzt.`,
+    `Ich mache einen Verband und schaue mir in zwei Tagen die Wunde noch einmal an, um zu beurteilen, ob sie doch noch genäht werden muss.`,
+    `Ich lasse die Wunde offen, da Bluten eine Infektion verhindert, und beobachte sie über die nächsten Tage gut.`,
 
 
   ]),
   q(`Kann Hundekot eine Krankheitsgefahr für den Menschen darstellen?`, [
-    ` `,
-    `#Ja, durch Hundekot können z.B. Spulwurmeier übertragen werden. `,
-    `Nein, Hundekot ist zwar unhygienisch, aber bietet keine Krankheitsgefahr für den Menschen. `,
-    `Ja, aber nur Säuglinge und Kleinkinder sind gefährdet. `,
-    `Ja, durch Hundekot kann Borreliose auf den Menschen übertragen werden. `,
+    `#Ja, durch Hundekot können z.B. Spulwurmeier übertragen werden.`,
+    `Nein, Hundekot ist zwar unhygienisch, aber bietet keine Krankheitsgefahr für den Menschen.`,
+    `Ja, aber nur Säuglinge und Kleinkinder sind gefährdet.`,
+    `Ja, durch Hundekot kann Borreliose auf den Menschen übertragen werden.`,
 
 
   ]),
-  q(`Was bezeichnet man als Ellbogengelenksdysplasie (ED) beim Hund? `, [
-
-    `Eine Arthrose im Ellbogengelenk, die vor allem bei sehr alten Hunden auftritt. `,
-    `Eine Missbildung des Ellbogengelenks, die vor allem beim Collie erblich bedingt vorkommt. `,
-    `#Eine Erkrankung des Ellbogengelenks, die in den meisten Fällen schon in der Wachstumsphase beim jugendlichen Hund auftritt. `,
+  q(`Was bezeichnet man als Ellbogengelenksdysplasie (ED) beim Hund?`, [
+    `Eine Arthrose im Ellbogengelenk, die vor allem bei sehr alten Hunden auftritt.`,
+    `Eine Missbildung des Ellbogengelenks, die vor allem beim Collie erblich bedingt vorkommt.`,
+    `#Eine Erkrankung des Ellbogengelenks, die in den meisten Fällen schon in der Wachstumsphase beim jugendlichen Hund auftritt.`,
     `Eine tumoröse Veränderung des Ellbogengelenks.`,
-    ` `,
+    ]),
+    q(`Bis zu welchem Alter gilt ein Hund als Welpe? `, [
+    `Bis zu einem Alter von bis zu 10 Wochen.`,
+    `Bis zu einem Alter von bis zu 1 Jahr.`,
+    `#Bis zu einem Alter von bis zu 20 Wochen.`,
+    `Bis zu einem Alter von bis zu 6 Monaten.`,
+    `Bis zu einem Alter von bis zu 9 Monaten.`,
+  ]),
+  q(`Worauf bezieht sich bei der Bezeichnung Canis lupus der erste und worauf der zweite Teil? `, [
 
-    `Bis zu welchem Alter gilt ein Hund als Welpe?  `,
-
-    `Bis zu einem Alter von bis zu 10 Wochen. `,
-    `Bis zu einem Alter von bis zu 1 Jahr. `,
-    `#Bis zu einem Alter von bis zu 20 Wochen. `,
-    `Bis zu einem Alter von bis zu 6 Monaten. `,
-    `Bis zu einem Alter von bis zu 9 Monaten. `,
+    `Der erste Teil bezeichnet die Ordnung, der zweite Teil die Familie.`,
+    `Der erste Teil bezeichnet die Ordnung, der zweite Teil die Unterordnung.`,
+    `Der erste Teil bezeichnet die Familie, der zweite Teil die Gattung.`,
+    `#Der erste Teil bezeichnet die Gattung, der zweite Teil die Art.`,
 
 
   ]),
-  q(`Worauf bezieht sich bei der Bezeichnung Canis lupus der erste und worauf der zweite Teil?  `, [
+  q(`Was bezeichnet man als agonistisches Verhalten? `, [
 
-    `Der erste Teil bezeichnet die Ordnung, der zweite Teil die Familie. `,
-    `Der erste Teil bezeichnet die Ordnung, der zweite Teil die Unterordnung. `,
-    `Der erste Teil bezeichnet die Familie, der zweite Teil die Gattung. `,
-    `#Der erste Teil bezeichnet die Gattung, der zweite Teil die Art. `,
-
-
-  ]),
-  q(`Was bezeichnet man als agonistisches Verhalten?  `, [
-
-    `Ein gegenteiliges, sich widersprechendes Verhalten. `,
-    `Die Neigung eines Organismus, auf bestimmte Reize mit Unlust zu reagieren. `,
-    `#Alle Verhaltensweisen, die mit kämpferischen Auseinandersetzungen zwischen Individuen im Zusammenhang stehen. `,
-    `Die Fähigkeit, verschiedene Faktoren miteinander in Verbindung zu bringen. `,
+    `Ein gegenteiliges, sich widersprechendes Verhalten.`,
+    `Die Neigung eines Organismus, auf bestimmte Reize mit Unlust zu reagieren.`,
+    `#Alle Verhaltensweisen, die mit kämpferischen Auseinandersetzungen zwischen Individuen im Zusammenhang stehen.`,
+    `Die Fähigkeit, verschiedene Faktoren miteinander in Verbindung zu bringen.`,
 
 
   ]),
-  q(`Welches ist das älteste Haustier? `, [
+  q(`Welches ist das älteste Haustier?`, [
 
-    `Rind. `,
-    `#Hund. `,
-    `Ziege. `,
-    `Schaf. `,
+    `Rind.`,
+    `#Hund.`,
+    `Ziege.`,
+    `Schaf.`,
 
 
   ]),
-  q(`Wer war der Begründer der Selektionstheorie? `, [
-
-    `Peter Simon Pallas. `,
-    `#Charles Darwin. `,
-    `Graf v. Buffon. `,
+  q(`Wer war der Begründer der Selektionstheorie?`, [
+    `Peter Simon Pallas.`,
+    `#Charles Darwin.`,
+    `Graf v. Buffon.`,
     `Johann Anton Güldenstedt.`,
+    ]),
 
-    ` `,
-    `Was bezeichnet man als Rudel? `,
+    q(`Was bezeichnet man als Rudel?`, [
+    `Eine vom Menschen zusammengestellte Gruppe von Hunden.`,
+    `Eine Gruppe von mindesten 6 Hunden, die in einer Hundepension zusammenlebt.`,
+    `Eine Gruppe von ausschließlich weiblichen Hunden.`,
+    `Eine Gruppe von ausschließlich männlichen Hunden.`,
+    `#Eine im Familienverband lebende Gruppe von Hunden.`,
+    `Menschen und Hunde, die zusammen im Haus leben.`,
+  ]),
+  q(`Welchen Zeitabschnitt bezeichnet man bei Welpen als "neonatale Phase"?`, [
 
-    `Eine vom Menschen zusammengestellte Gruppe von Hunden. `,
-    `Eine Gruppe von mindesten 6 Hunden, die in einer Hundepension zusammenlebt. `,
-    `Eine Gruppe von ausschließlich weiblichen Hunden. `,
-    `Eine Gruppe von ausschließlich männlichen Hunden. `,
-    `#Eine im Familienverband lebende Gruppe von Hunden. `,
-    `Menschen und Hunde, die zusammen im Haus leben. `,
+    `#Von der Geburt bis zum 14. Tag`,
+    `Vom 14. bis 21. Lebenstag`,
+    `Von der 4. bis 12/14. Lebenswoche.`,
+    `Von der Geburt bis zur 12. Woche.`,
 
 
   ]),
-  q(`Welchen Zeitabschnitt bezeichnet man bei Welpen als "neonatale Phase"? `, [
-
-    `#Von der Geburt bis zum 14. Tag `,
-    `Vom 14. bis 21. Lebenstag `,
-    `Von der 4. bis 12/14. Lebenswoche. `,
-    `Von der Geburt bis zur 12. Woche. `,
-
-
-  ]),
-  q(`Was bezeichnet die ontogenetische Entwicklung eines Tieres? `, [
-
-    `#Die genetisch und durch die Umwelt beeinflusste Entwicklung eines Individuums von der befruchteten Eizelle bis zum Tod. `,
-    `Die genetisch und durch die Umwelt beeinflusste Jugendentwicklung eines Individuums bis zu einem Tod. `,
-    `Die Stammesgeschichte der Art, zu der das Individuum zählt. `,
+  q(`Was bezeichnet die ontogenetische Entwicklung eines Tieres?`, [
+    `#Die genetisch und durch die Umwelt beeinflusste Entwicklung eines Individuums von der befruchteten Eizelle bis zum Tod.`,
+    `Die genetisch und durch die Umwelt beeinflusste Jugendentwicklung eines Individuums bis zu einem Tod.`,
+    `Die Stammesgeschichte der Art, zu der das Individuum zählt.`,
     `Die genetisch ununterbrochene Entwicklung der Art von den Anfängen bis heute.`,
-
-    ` `,
-    `Was sollte in den ersten zwei Lebenswochen der Welpen beachtet werden? `,
-
-    `Die Welpen müssen in dieser Zeit mit der Mutterhündin noch völlig in Ruhe gelassen werden. `,
-    `#Alltagssituationen und adäquater Stress beeinflussen die Entwicklung der Welpen in der Regel positiv. `,
-    `Die Welpen sollten in dieser Zeit so intensiv wie möglich auch von fremden Personen angefasst und länger gestreichelt werden, da dies wichtig für die Sozialisation ist. `,
-    `Es ist egal, wie viel Kontakte in dieser Zeit stattfinden, da die Welpen dies noch nicht wahrnehmen können. `,
-
-
+    ]),
+    q(`Was sollte in den ersten zwei Lebenswochen der Welpen beachtet werden?`, [
+    `Die Welpen müssen in dieser Zeit mit der Mutterhündin noch völlig in Ruhe gelassen werden.`,
+    `#Alltagssituationen und adäquater Stress beeinflussen die Entwicklung der Welpen in der Regel positiv.`,
+    `Die Welpen sollten in dieser Zeit so intensiv wie möglich auch von fremden Personen angefasst und länger gestreichelt werden, da dies wichtig für die Sozialisation ist.`,
+    `Es ist egal, wie viel Kontakte in dieser Zeit stattfinden, da die Welpen dies noch nicht wahrnehmen können.`,
   ]),
-  q(`Wie viel beträgt der tägliche Basis-Wasserbedarf des Hundes im Allgemeinen je nach Größe/Gewicht?  `, [
+  q(`Wie viel beträgt der tägliche Basis-Wasserbedarf des Hundes im Allgemeinen je nach Größe/Gewicht? `, [
 
-    `#40-90 ml/kg. `,
-    `90-110 ml/kg. `,
-    `110-130 ml/kg. `,
-    `130-160 ml/kg. `,
+    `#40-90 ml/kg.`,
+    `90-110 ml/kg.`,
+    `110-130 ml/kg.`,
+    `130-160 ml/kg.`,
 
 
   ]),
   q(`Der durchschnittliche Wasserbedarf eines Hunde beträgt 40-90 ml/kg. Bei welcher der aufgeführten Erkrankungen steigt der individuelle Wasserbedarf des Hundes?`, [
-    ` `,
-    `#Bei Diabetes mellitus. `,
-    `Bei einer Magendrehung. `,
-    `Bei einem Darmverschluss. `,
-    `Bei Arthrose. `,
-
-
+    `#Bei Diabetes mellitus.`,
+    `Bei einer Magendrehung.`,
+    `Bei einem Darmverschluss.`,
+    `Bei Arthrose.`,
   ]),
-  q(`Wie viele Arten gehören zur Gattung Canis? `, [
-
-    `8 `,
-    `#6 `,
-    `4 `,
-    `2 `,
-
-
+  q(`Wie viele Arten gehören zur Gattung Canis?`, [
+    `8`,
+    `#6`,
+    `4`,
+    `2`,
   ]),
   q(`Wie viele Gattungen umfasst die Familie der hundeartigen Raubtiere?`, [
-    ` `,
-    `8 `,
-    `#14 `,
-    `2 `,
+    `8`,
+    `#14`,
+    `2`,
     `10`,
+    ]),
+    q(`Welche der hier aufgeführten Bastardisierungen treten in freier Wildbahn nicht spontan auf?`, [
+    `Wolf und Kojote.`,
+    `Kojote und Hund.`,
+    `#Pariahund und Schakal.`,
+    `Wolf und Hund.`,
+    ]),
+  q(`Eine Familie mit drei Kindern möchte sich einen Welpen anschaffen. Was sollte die Familie am besten beachten? `, [
 
-    ` `,
-    `Welche der hier aufgeführten Bastardisierungen treten in freier Wildbahn nicht spontan auf? `,
-
-    `Wolf und Kojote. `,
-    `Kojote und Hund. `,
-    `#Pariahund und Schakal. `,
-    `Wolf und Hund. `,
-
-
-  ]),
-  q(`Eine Familie mit drei Kindern möchte sich einen Welpen anschaffen. Was sollte die Familie am besten beachten?  `, [
-
-    `Einen Hund einer auf jeden Fall kinderlieben Hunderasse zu kaufen, z. B. einen Golden Retriever. `,
-    `Sie sollten lieber einen erwachsenen Hund nehmen, weil diese bereits mit Kindern umgehen können. `,
-    `#Der Welpe sollte von einem guten Züchter kommen, gut sozialisiert sein und bereits Kinder kennen gelernt haben. `,
-    `Sie sollten den Welpen bereits im Alter von 6 Wochen übernehmen, damit er sich frühzeitig an die Kinder gewöhnt. `,
+    `Einen Hund einer auf jeden Fall kinderlieben Hunderasse zu kaufen, z. B. einen Golden Retriever.`,
+    `Sie sollten lieber einen erwachsenen Hund nehmen, weil diese bereits mit Kindern umgehen können.`,
+    `#Der Welpe sollte von einem guten Züchter kommen, gut sozialisiert sein und bereits Kinder kennen gelernt haben.`,
+    `Sie sollten den Welpen bereits im Alter von 6 Wochen übernehmen, damit er sich frühzeitig an die Kinder gewöhnt.`,
 
 
   ]),
-  q(`Gibt es bei Hunden rassetypische Unterschiede im Verhalten? `, [
+  q(`Gibt es bei Hunden rassetypische Unterschiede im Verhalten?`, [
 
-    `Nein, die Rassen unterscheiden sich heutzutage zwar durch das Aussehen, wie sie sich aber entwickeln hängt von den Besitzern und der Umwelt ab. `,
-    `#Ja, je nach Rasse weisen Hunde unterschiedliche Veranlagungen auf. `,
-
-
-  ]),
-  q(`Gibt es einen "allgemeinen Welpenschutz" als "natürliche Beißhemmung Welpen gegenüber?  `, [
-
-    `Ja, denn die Kennreize des "Kindchenschemas" eines Welpen (hohe Stirn, große Augen z.B.) lösen artübergreifend bei normalen Tieren und Menschen Pflegeverhalten aus. `,
-    `Nein, denn Terrier-Rassen tendieren dazu, sogar ihre eigenen Welpen zu töten, insbesondere den "Kampfhunderassen" fehlt zumeist jeglicher Welpenschutz `,
-    `#Nein, es gibt keinen "allgemeinen Welpenschutz", der Umgang mit Welpen muss gelernt werden. `,
-    `Ja, Toyrassen mit "Welpenmerkmalen" können sich bis ins hohe Alter alles herausnehmen. Sie behalten eine Art "Narrenfreiheit", `,
-    `Ja, aber nur gegenüber Welpen, die jünger sind als 12 Wochen. `,
+    `Nein, die Rassen unterscheiden sich heutzutage zwar durch das Aussehen, wie sie sich aber entwickeln hängt von den Besitzern und der Umwelt ab.`,
+    `#Ja, je nach Rasse weisen Hunde unterschiedliche Veranlagungen auf.`,
 
 
   ]),
-  q(`Ist die sogenannte Beißhemmung bei Hunden angeboren? `, [
+  q(`Gibt es einen "allgemeinen Welpenschutz" als "natürliche Beißhemmung Welpen gegenüber? `, [
 
-    `Ja, bei allen Hunden. `,
-    `#Nein, Hunde müssen die Beißhemmung erst lernen. `,
-    `Einige Hunderassen haben eine angeborene Beißhemmung (z. B. Labrador). `,
-    `Einige Hunderassen haben keine Beißhemmung (z. B. Pitbull-Terrier). `,
-
-
-  ]),
-  q(`Ist Stubenreinheit angeboren? `, [
-
-    `Ja, denn in der Natur gibt es keine Windeln. `,
-    `Ja, aber bei einigen Hunderassen (z. B. Mops) ist die natürliche Stubenreinheit nicht mehr vorhanden. `,
-    `#Nein, die Stubenreinheit muss erlernt werden. `,
+    `Ja, denn die Kennreize des "Kindchenschemas" eines Welpen (hohe Stirn, große Augen z.B.) lösen artübergreifend bei normalen Tieren und Menschen Pflegeverhalten aus.`,
+    `Nein, denn Terrier-Rassen tendieren dazu, sogar ihre eigenen Welpen zu töten, insbesondere den "Kampfhunderassen" fehlt zumeist jeglicher Welpenschutz`,
+    `#Nein, es gibt keinen "allgemeinen Welpenschutz", der Umgang mit Welpen muss gelernt werden.`,
+    `Ja, Toyrassen mit "Welpenmerkmalen" können sich bis ins hohe Alter alles herausnehmen. Sie behalten eine Art "Narrenfreiheit",`,
+    `Ja, aber nur gegenüber Welpen, die jünger sind als 12 Wochen.`,
 
 
   ]),
-  q(`Können Hunde ab einem gewissen Alter problemlos alleine bleiben? `, [
+  q(`Ist die sogenannte Beißhemmung bei Hunden angeboren?`, [
 
-    `Ja, so wie sie von der Mutterhündin und den Wurfgeschwistern getrennt wurden. `,
-    `Ja, ab dem Alter von 6 Monaten. `,
-    `Ja, ab dem Alter von 1 Jahr. `,
-    `#Nein, das Alleinbleiben muss erlernt werden. `,
-
-
-  ]),
-  q(`Von welchem Wildtier stammen alle Haushunde ab? `, [
-
-    `#Wolf. `,
-    `Kojote. `,
-    `Schakal. `,
-    `Einige Rassen, wie z. B. der deutsche Schäferhund, stammen vom Wolf ab, einige `,
-    `Rassen, wie z. B. der deutsche Spitz, stammen vom Schakal ab. `,
+    `Ja, bei allen Hunden.`,
+    `#Nein, Hunde müssen die Beißhemmung erst lernen.`,
+    `Einige Hunderassen haben eine angeborene Beißhemmung (z. B. Labrador).`,
+    `Einige Hunderassen haben keine Beißhemmung (z. B. Pitbull-Terrier).`,
 
 
   ]),
-  q(`Welche der folgenden Behauptungen sind richtig? `, [
+  q(`Ist Stubenreinheit angeboren?`, [
 
-    `#Hunde sind sozial lebende Tiere. `,
-    `Hunde sind Einzelgänger. `,
-    `Hunde würden unter natürlichen Bedingungen paarweise, d. h. Rüde und Hündin, zusammenleben. `,
-    `Hündinnen und junge Rüden sind Rudeltiere; Ab dem Alter von 2 - 3 Jahren sind Rüden Einzelgänger. `,
-
-
-  ]),
-  q(`Gibt es genetische Dispositionen für aggressives Verhalten? `, [
-
-    `#Ja, bei allen Säugetieren gibt es genetische Dispositionen für aggressives Verhalten.  `,
-    `Ja, aber nur bei wildl ebenden Säugetieren  Tieren, z. B. Wölfen. Haustiere, z. B. Hunde, müssen erst aggressiv gemacht werden, da bei ihnen das natürliche Aggressionsverhalten rausgezüchtet wurde. `,
-    `Nein, alle Säugetiere sind von Natur aus nicht aggressiv und werden erst aggressiv, wenn sie über lange Zeit gequält wurden. `,
-    `Nein, nur bei verhaltensgestörten Säugetieren. `,
+    `Ja, denn in der Natur gibt es keine Windeln.`,
+    `Ja, aber bei einigen Hunderassen (z. B. Mops) ist die natürliche Stubenreinheit nicht mehr vorhanden.`,
+    `#Nein, die Stubenreinheit muss erlernt werden.`,
 
 
   ]),
-  q(`Was bedeutet der Begriff Übersprungshandlung? `, [
+  q(`Können Hunde ab einem gewissen Alter problemlos alleine bleiben?`, [
 
-    `☐ Das gezielte Überspringen mehrerer Stangen auf ein zuvor erfolgten Befehl des Hundeführers. `,
-    `☐ Das Aufreiten auf ein gleichgeschlechtliches Tier. `,
-    `☐ Das Aufreiten auf ein rangniedrigeres Tier. `,
-    `☐ Das Aufreiten auf ein ranghöheres Tier. `,
-    `#Das plötzliche Auftreten von Verhaltensweisen in falschen Funktionskreisen infolge von Konfliktsituationen. `,
-
-
-  ]),
-  q(`Was ist „Die Fitness“? `, [
-    ` `,
-    `#Die Fitness ist das Maß für den Fortpflanzungserfolg eines Individuums. `,
-    `Die Fitness ist die Fähigkeit, unabhängig des genetischen Materials in Form zu bleiben. `,
-    `Dieser Begriff hat mit Tieren nicht zu tun `,
-    `Die Fitness ist ein Maß für die Fähigkeit gut trainiert werden zu können. `,
+    `Ja, so wie sie von der Mutterhündin und den Wurfgeschwistern getrennt wurden.`,
+    `Ja, ab dem Alter von 6 Monaten.`,
+    `Ja, ab dem Alter von 1 Jahr.`,
+    `#Nein, das Alleinbleiben muss erlernt werden.`,
 
 
   ]),
-  q(`Welche der folgenden Verhaltensweisen bezeichnet man zwingend als "aggressives Verhalten"? `, [
+  q(`Von welchem Wildtier stammen alle Haushunde ab?`, [
 
-    `#Drohverhalten. `,
-    `Submissive Grin. `,
-    `Aufreiten. `,
-    `Urin markieren. `,
-    `Flucht. `,
+    `#Wolf.`,
+    `Kojote.`,
+    `Schakal.`,
+    `Einige Rassen, wie z. B. der deutsche Schäferhund, stammen vom Wolf ab, einige`,
+    `Rassen, wie z. B. der deutsche Spitz, stammen vom Schakal ab.`,
 
 
   ]),
-  q(`Was bedeutet der Begriff "Wesensfestigkeit"? `, [
+  q(`Welche der folgenden Behauptungen sind richtig?`, [
 
-    `Dieser Begriff wird für Hunde verwendet, die nicht bissig sind. `,
-    `Dieser Begriff wird für Hunde verwendet, die nicht überzüchtet sind. `,
-    `#Dies ist ein fragwürdiger Begriff, für den es keine genaue Definition gibt. `,
-    `Dieser Begriff wird für Hunde mit tadellosem Charakter verwendet. `,
+    `#Hunde sind sozial lebende Tiere.`,
+    `Hunde sind Einzelgänger.`,
+    `Hunde würden unter natürlichen Bedingungen paarweise, d. h. Rüde und Hündin, zusammenleben.`,
+    `Hündinnen und junge Rüden sind Rudeltiere; Ab dem Alter von 2 - 3 Jahren sind Rüden Einzelgänger.`,
+
+
+  ]),
+  q(`Gibt es genetische Dispositionen für aggressives Verhalten?`, [
+
+    `#Ja, bei allen Säugetieren gibt es genetische Dispositionen für aggressives Verhalten. `,
+    `Ja, aber nur bei wildl ebenden Säugetieren  Tieren, z. B. Wölfen. Haustiere, z. B. Hunde, müssen erst aggressiv gemacht werden, da bei ihnen das natürliche Aggressionsverhalten rausgezüchtet wurde.`,
+    `Nein, alle Säugetiere sind von Natur aus nicht aggressiv und werden erst aggressiv, wenn sie über lange Zeit gequält wurden.`,
+    `Nein, nur bei verhaltensgestörten Säugetieren.`,
+
+
+  ]),
+  q(`Was bedeutet der Begriff Übersprungshandlung?`, [
+
+    `☐ Das gezielte Überspringen mehrerer Stangen auf ein zuvor erfolgten Befehl des Hundeführers.`,
+    `☐ Das Aufreiten auf ein gleichgeschlechtliches Tier.`,
+    `☐ Das Aufreiten auf ein rangniedrigeres Tier.`,
+    `☐ Das Aufreiten auf ein ranghöheres Tier.`,
+    `#Das plötzliche Auftreten von Verhaltensweisen in falschen Funktionskreisen infolge von Konfliktsituationen.`,
+
+
+  ]),
+  q(`Was ist „Die Fitness“?`, [
+    `#Die Fitness ist das Maß für den Fortpflanzungserfolg eines Individuums.`,
+    `Die Fitness ist die Fähigkeit, unabhängig des genetischen Materials in Form zu bleiben.`,
+    `Dieser Begriff hat mit Tieren nicht zu tun`,
+    `Die Fitness ist ein Maß für die Fähigkeit gut trainiert werden zu können.`,
+  ]),
+  q(`Welche der folgenden Verhaltensweisen bezeichnet man zwingend als "aggressives Verhalten"?`, [
+    `#Drohverhalten.`,
+    `Submissive Grin.`,
+    `Aufreiten.`,
+    `Urin markieren.`,
+    `Flucht.`,
+  ]),
+  q(`Was bedeutet der Begriff "Wesensfestigkeit"?`, [
+
+    `Dieser Begriff wird für Hunde verwendet, die nicht bissig sind.`,
+    `Dieser Begriff wird für Hunde verwendet, die nicht überzüchtet sind.`,
+    `#Dies ist ein fragwürdiger Begriff, für den es keine genaue Definition gibt.`,
+    `Dieser Begriff wird für Hunde mit tadellosem Charakter verwendet.`,
 
 
   ]),
   q(`Was bedeutet der Begriff "Funktionskreis" in der Ethologie?`, [
-    ` `,
-    `Dies ist ein Oberbegriff für hormonelle Vorgänge, z. B. dem weiblichen Zyklus. `,
-    `#Dies ist ein Oberbegriff für Verhaltensweisen mit gleicher Aufgabe, z. B. Nahrungsaufnahme oder Fortpflanzung. `,
-    `Dies bezeichnet eine Trainingsmethode. Dem Tier werden die einzelnen Trainingsschritte zunächst getrennt voneinander beigebracht und dann zu einer Einheit zusammengesetzt. `,
-    `Dies bezeichnet eine Trainingsmethode auf einem runden Trainingsplatz. Ursprünglich für die Ausbildung von Zirkustieren gedacht, wird diese Methode auch in der Verhaltenstherapie eingesetzt. `,
+    `Dies ist ein Oberbegriff für hormonelle Vorgänge, z. B. dem weiblichen Zyklus.`,
+    `#Dies ist ein Oberbegriff für Verhaltensweisen mit gleicher Aufgabe, z. B. Nahrungsaufnahme oder Fortpflanzung.`,
+    `Dies bezeichnet eine Trainingsmethode. Dem Tier werden die einzelnen Trainingsschritte zunächst getrennt voneinander beigebracht und dann zu einer Einheit zusammengesetzt.`,
+    `Dies bezeichnet eine Trainingsmethode auf einem runden Trainingsplatz. Ursprünglich für die Ausbildung von Zirkustieren gedacht, wird diese Methode auch in der Verhaltenstherapie eingesetzt.`,
+  ]),
+  q(`Ein bisher unauffälliger sechsjähriger Labrador-Mischling zeigt seit kurzem aggressives Verhalten gegenüber Menschen und Hunden. Was sind die ersten Schritte in der Beratung?`, [
+
+    `Ich spreche mit den Besitzern über verstärkendes Verhalten ihrerseits und fordere sie auf, ihren Hund eine Woche zu ignorieren, danach wird sich der Hund das unerwünschte Verhalten nicht mehr zeigen.`,
+    `#Ich führe eine Verhaltensanalyse durch und verweise zunächst an eine/n in dem Bereich sachkundige/nTierärztin/Tierarzt, weil möglicherweise eine Erkrankung bei dem Hund vorliegt.`,
+    `Ich empfehle den Hund für eine gewisse Zeit in eine Hundepension zu geben, um zu sehen, ob sich der Hund auch ohne seine Besitzer aggressiv verhält. Ich zeige den Besitzern nur wie sie sich dem Hund gegenüber durchsetzen können.`,
 
 
   ]),
-  q(`Ein bisher unauffälliger sechsjähriger Labrador-Mischling zeigt seit kurzem aggressives Verhalten gegenüber Menschen und Hunden. Was sind die ersten Schritte in der Beratung? `, [
+  q(`Was ist Appetenzverhalten?`, [
 
-    `Ich spreche mit den Besitzern über verstärkendes Verhalten ihrerseits und fordere sie auf, ihren Hund eine Woche zu ignorieren, danach wird sich der Hund das unerwünschte Verhalten nicht mehr zeigen. `,
-    `#Ich führe eine Verhaltensanalyse durch und verweise zunächst an eine/n in dem Bereich sachkundige/nTierärztin/Tierarzt, weil möglicherweise eine Erkrankung bei dem Hund vorliegt. `,
-    `Ich empfehle den Hund für eine gewisse Zeit in eine Hundepension zu geben, um zu sehen, ob sich der Hund auch ohne seine Besitzer aggressiv verhält. Ich zeige den Besitzern nur wie sie sich dem Hund gegenüber durchsetzen können. `,
-
-
-  ]),
-  q(`Was ist Appetenzverhalten? `, [
-
-    `#Ein Such-und Orientierungsverhalten. `,
-    `Ein Teil des Sexualverhalten. `,
-    `Ein soziopositives Verhalten. `,
-    `Ein sozionegatives Verhalten. `,
-    `Ein dominanzanzeigendes Verhalten. `,
+    `#Ein Such-und Orientierungsverhalten.`,
+    `Ein Teil des Sexualverhalten.`,
+    `Ein soziopositives Verhalten.`,
+    `Ein sozionegatives Verhalten.`,
+    `Ein dominanzanzeigendes Verhalten.`,
 
 
   ]),
-  q(`Welche Aussagen in Bezug auf Jagdverhalten von Hunden ist richtig?  `, [
+  q(`Welche Aussagen in Bezug auf Jagdverhalten von Hunden ist richtig? `, [
 
-    `Jagen dient ausschließlich dem Nahrungserwerb. `,
-    `Jagen ist Normalverhalten und ist erst dann als unangemessen zu bezeichnen, wenn die Beute getötet wird. `,
-    `#Jagen ist ein selbstbelohnendes Verhalten. `,
-    `Jagen ist kein Normalverhalten, dabei verhält sich der Hund gegenüber seiner Beute aggressiv. `,
-
-
-  ]),
-  q(`Welche Aussagen treffen auf eine beutemotivierte Aggression zu?  `, [
-
-    `#Ein Hund verteidigt seine Beute. `,
-    `Ein Hund verhält sich seiner Beute gegenüber aggressiv. `,
-    `Ein Hund zeigt unangemessenes Jagdverhalten. `,
+    `Jagen dient ausschließlich dem Nahrungserwerb.`,
+    `Jagen ist Normalverhalten und ist erst dann als unangemessen zu bezeichnen, wenn die Beute getötet wird.`,
+    `#Jagen ist ein selbstbelohnendes Verhalten.`,
+    `Jagen ist kein Normalverhalten, dabei verhält sich der Hund gegenüber seiner Beute aggressiv.`,
 
 
   ]),
-  q(`Was ist eine Ersatzhandlung? `, [
+  q(`Welche Aussagen treffen auf eine beutemotivierte Aggression zu? `, [
 
-    `Eine Handlung, die spontan, ohne den eigentlich auslösenden Reiz ausgeführt wird. `,
-    `#Eine Handlung, die ersatzweise, anstelle einer anderen, ursprünglich intendierten, aber nicht realisierbaren Handlung tritt. Ersatzhandlungen sind meist den eigentlichen Handlungen ähnlich. `,
-    `Eine Handlung, die eine andere Verhaltensweise ersetzt, da sie eher zum Ziel führt. `,
-    `Eine Handlung, die ersatzweise, anstelle einer anderen, ursprünglich intendierten, aber nicht realisierbaren Handlung tritt. Ersatzhandlungen sind genau das Gegenteil von den eigentlichen Handlungen. `,
-
-
-  ]),
-  q(`Gibt es in Deutschland gesetzliche Vorschriften für die Zwingerhaltung von Hunden?  `, [
-
-    `Nein, die Zwingerhaltung ist uneingeschränkt erlaubt. `,
-    `In einigen Bundesländern ist die Zwingerhaltung erlaubt, in einigen Bundesländern ist sie verboten. `,
-    `#Ja, diese stehen in der Tierschutzhundeverordnung. `,
+    `#Ein Hund verteidigt seine Beute.`,
+    `Ein Hund verhält sich seiner Beute gegenüber aggressiv.`,
+    `Ein Hund zeigt unangemessenes Jagdverhalten.`,
 
 
   ]),
-  q(`Welche der folgenden Bestimmungen gilt in Deutschland für die Kettenhaltung von Hunden?  `, [
+  q(`Was ist eine Ersatzhandlung?`, [
 
-    `#Die Kettenhaltung von Hunden ist in Deutschland verboten. `,
-    `Die Kette muss mindestens 10 m lang sein. `,
-    `Hunde dürfen nicht ausschließlich, sondern nur stundenweise angekettet werden (insgesamt höchstens 12 Std am Tag). `,
+    `Eine Handlung, die spontan, ohne den eigentlich auslösenden Reiz ausgeführt wird.`,
+    `#Eine Handlung, die ersatzweise, anstelle einer anderen, ursprünglich intendierten, aber nicht realisierbaren Handlung tritt. Ersatzhandlungen sind meist den eigentlichen Handlungen ähnlich.`,
+    `Eine Handlung, die eine andere Verhaltensweise ersetzt, da sie eher zum Ziel führt.`,
+    `Eine Handlung, die ersatzweise, anstelle einer anderen, ursprünglich intendierten, aber nicht realisierbaren Handlung tritt. Ersatzhandlungen sind genau das Gegenteil von den eigentlichen Handlungen.`,
 
 
   ]),
-  q(`Welche der folgenden Bestimmungen gilt in Deutschland für den Handel mit Hunden?  `, [
+  q(`Gibt es in Deutschland gesetzliche Vorschriften für die Zwingerhaltung von Hunden? `, [
 
-    `#Ohne Einwilligung der Erziehungsberechtigten dürfen Hunde nicht an Kinder oder Jugendliche unter 16 Jahren verkauft oder verschenkt werden. `,
-    `Der Handel mit Hunden ist in Deutschland verboten. `,
-    `Wer einen Hund verkauft, muss dies dem Finanzamt melden. `,
+    `Nein, die Zwingerhaltung ist uneingeschränkt erlaubt.`,
+    `In einigen Bundesländern ist die Zwingerhaltung erlaubt, in einigen Bundesländern ist sie verboten.`,
+    `#Ja, diese stehen in der Tierschutzhundeverordnung.`,
+
+
+  ]),
+  q(`Welche der folgenden Bestimmungen gilt in Deutschland für die Kettenhaltung von Hunden? `, [
+
+    `#Die Kettenhaltung von Hunden ist in Deutschland verboten.`,
+    `Die Kette muss mindestens 10 m lang sein.`,
+    `Hunde dürfen nicht ausschließlich, sondern nur stundenweise angekettet werden (insgesamt höchstens 12 Std am Tag).`,
+
+
+  ]),
+  q(`Welche der folgenden Bestimmungen gilt in Deutschland für den Handel mit Hunden? `, [
+
+    `#Ohne Einwilligung der Erziehungsberechtigten dürfen Hunde nicht an Kinder oder Jugendliche unter 16 Jahren verkauft oder verschenkt werden.`,
+    `Der Handel mit Hunden ist in Deutschland verboten.`,
+    `Wer einen Hund verkauft, muss dies dem Finanzamt melden.`,
     `Wer einen Hund verschenkt oder verkauft, muss dies dem Ordnungsamt melden.`,
 
 
   ]),
   q(`Welches Gesetz für gefährliche Hunde gilt für ganz Deutschland?`, [
-    `  `,
-    `#Jedes Bundesland hat ein eigenes Gefahrhundegesetz bzw. eine eigene Gefahrhundeverordnung. `,
-    `Alle Bundesländer haben das gleiche Gefahrhundegesetz. `,
-    `Fast alle Bundesländer haben das gleiche Gefahrhundegesetz wie SchleswigHolstein. Nur Bayern hat eine eigene Gefahrhunde-Verordnung. `,
-    `Fast alle Bundesländer haben das gleiche Gefahrhundegesetz wie Niedersachsen. `,
-    `Nur Schleswig-Holstein hat ein eigenes Gefahrhundegesetz. `,
-
-
+    `#Jedes Bundesland hat ein eigenes Gefahrhundegesetz bzw. eine eigene Gefahrhundeverordnung.`,
+    `Alle Bundesländer haben das gleiche Gefahrhundegesetz.`,
+    `Fast alle Bundesländer haben das gleiche Gefahrhundegesetz wie SchleswigHolstein. Nur Bayern hat eine eigene Gefahrhunde-Verordnung.`,
+    `Fast alle Bundesländer haben das gleiche Gefahrhundegesetz wie Niedersachsen.`,
+    `Nur Schleswig-Holstein hat ein eigenes Gefahrhundegesetz.`,
   ]),
-  q(`Ein Hund knurrt den Besitzer an, wenn dieser sich seinem Hund nähert und ein Spielzeug oder ähnliches in der Nähe liegt. Was empfehlen Sie im allerersten telefonischen Beratungsgespräch? `, [
-
-    `#Ich empfehle zunächst alle Spielzeuge zu entfernen, um keine weiteren Konflikte zu provozieren. `,
-    `Ich erkläre den Besitzern, wie man in einem solchen Fall einen Schnauzgriff anwendet. `,
-    `Ich empfehle, dass Verhalten des Hundes von nun an immer zu ignorieren, dann wird der Hund das Verhalten langfristig nicht mehr zeigen. `,
-    `Ich rate, neues Spielzeug zu kaufen und nur noch im gemeinsamen Spiel zu verwenden. `,
-    `Ich erkläre, wie man dem Hund mit Futter das Hörzeichen "Sitz" beibringt. `,
+  q(`Ein Hund knurrt den Besitzer an, wenn dieser sich seinem Hund nähert und ein Spielzeug oder ähnliches in der Nähe liegt. Was empfehlen Sie im allerersten telefonischen Beratungsgespräch?`, [
+    `#Ich empfehle zunächst alle Spielzeuge zu entfernen, um keine weiteren Konflikte zu provozieren.`,
+    `Ich erkläre den Besitzern, wie man in einem solchen Fall einen Schnauzgriff anwendet.`,
+    `Ich empfehle, dass Verhalten des Hundes von nun an immer zu ignorieren, dann wird der Hund das Verhalten langfristig nicht mehr zeigen.`,
+    `Ich rate, neues Spielzeug zu kaufen und nur noch im gemeinsamen Spiel zu verwenden.`,
+    `Ich erkläre, wie man dem Hund mit Futter das Hörzeichen "Sitz" beibringt.`,
     `Ich empfehle, den Hund nur noch aus der Hand zu füttern, damit er seine Angst bei Annäherung verliert.`,
+    ]),
+    q(`Ein Hund wird von seinem Besitzer gerufen, woraufhin sich der Hund, anders als sonst, in demütiger Körperhaltung nähert. Wie sollte sich der Besitzer zuerst verhalten? `, [
+    `Er schickt ihn in seinen Korb, er hat bestimmt etwas angestellt.`,
+    `#Er sollte ihn nicht bedrohen.`,
+    `Er beruhigt ihn.`,
+    `Er merkt, dass er "ein schlechtes Gewissen" hat und schaut nach, was er getan hat.`,
+  ]),
+  q(`Die negative Strafe findet statt wenn:`, [
+    `Etwas Unangenehmes hinzugefügt wird.`,
+    `#Etwas Angenehmes entfernt wird.`,
+    `Etwas Unangenehmes entfernt wird.`,
+    `Etwas Angenehmes hinzugefügt wird.`,
+  ]),
+  q(`Welche Verhaltensweisen können beim Haushund Dominanz anzeigen? `, [
 
-    ` `,
-    `Ein Hund wird von seinem Besitzer gerufen, woraufhin sich der Hund, anders als sonst, in demütiger Körperhaltung nähert. Wie sollte sich der Besitzer zuerst verhalten?  `,
-
-    `Er schickt ihn in seinen Korb, er hat bestimmt etwas angestellt. `,
-    `#Er sollte ihn nicht bedrohen. `,
-    `Er beruhigt ihn. `,
-    `Er merkt, dass er "ein schlechtes Gewissen" hat und schaut nach, was er getan hat. `,
+    `Große Aufregung und hektisches Hin- und Herlaufen.`,
+    `#Den Weg verstellen bei imponierender Körperhaltung.`,
+    `Immer wieder Angriffe initiieren.`,
+    `Kopf auf das Bein des sitzenden Menschen auflegen und den Hosenstoff mit den Schneidezähnen beknabbern.`,
 
 
   ]),
-  q(`Die negative Strafe findet statt wenn: `, [
-    ` `,
-    `Etwas Unangenehmes hinzugefügt wird. `,
-    `#Etwas Angenehmes entfernt wird. `,
-    `Etwas Unangenehmes entfernt wird. `,
-    `Etwas Angenehmes hinzugefügt wird. `,
+  q(`Welche der folgende/n Aussage/n triff/treffen hier zu?`, [
+
+    `Furcht steht für Situationen, in denen die Gefahr nicht erkennbar ist .`,
+    `#Der Hund verfügt bei Furcht über adäquate Verhaltensprogramme (z.B. Flucht oder Angriff).`,
 
 
   ]),
-  q(`Welche Verhaltensweisen können beim Haushund Dominanz anzeigen?  `, [
+  q(`Welche der folgenden Aussagen bezüglich der Dominanz unter Hunden sind korrekt? `, [
 
-    `Große Aufregung und hektisches Hin- und Herlaufen. `,
-    `#Den Weg verstellen bei imponierender Körperhaltung. `,
-    `Immer wieder Angriffe initiieren. `,
-    `Kopf auf das Bein des sitzenden Menschen auflegen und den Hosenstoff mit den Schneidezähnen beknabbern. `,
-
-
-  ]),
-  q(`Welche der folgende/n Aussage/n triff/treffen hier zu? `, [
-
-    `Furcht steht für Situationen, in denen die Gefahr nicht erkennbar ist . `,
-    `#Der Hund verfügt bei Furcht über adäquate Verhaltensprogramme (z.B. Flucht oder Angriff). `,
+    `#Dominanz spiegelt die Regelhaftigkeit einer Beziehung wider.`,
+    `Dominanz kennzeichnet den sog. Kopf-Hund (auch Alpha-Hund genannt).`,
+    `Dominante Hunde sind überwiegend Rüden, Hündinnen ordnen sich tendenziell mehr unter.`,
+    `Dominanz ist ein Ausdruck der Stärke eines gesunden Rüden mit hohem Reproduktionserfolg.`,
 
 
   ]),
-  q(`Welche der folgenden Aussagen bezüglich der Dominanz unter Hunden sind korrekt?  `, [
+  q(`Was ist eine T-Stellung? `, [
 
-    `#Dominanz spiegelt die Regelhaftigkeit einer Beziehung wider. `,
-    `Dominanz kennzeichnet den sog. Kopf-Hund (auch Alpha-Hund genannt). `,
-    `Dominante Hunde sind überwiegend Rüden, Hündinnen ordnen sich tendenziell mehr unter. `,
-    `Dominanz ist ein Ausdruck der Stärke eines gesunden Rüden mit hohem Reproduktionserfolg. `,
-
-
-  ]),
-  q(`Was ist eine T-Stellung?  `, [
-
-    `Die T-Stellung ist eine Paarungsaufforderung zur Zeit der Ovulation, bei dem sich ein Tier seitlich senkrecht vor ein anderes stellt, so dass die beiden Körper ein T bilden. `,
-    `Bei der T-Stellung steht ein Tier seitlich senkrecht vor einem, so dass die beiden Körper ein T bilden. Das querstehende Tier zeigt so dem Partner seine Demutspose an. `,
-    `#Ein ritualisiertes Imponierverhalten, bei dem sich ein Tier seitlich senkrecht vor ein anderes stellt, so dass die beiden Körper ein T bilden. Der Imponierende formt dabei den Querbalken und schränkt die Bewegungsfreiheit des anderen ein. `,
-    `T-Stellungen sind häufige, ritualisierte Spielaufforderungen. Sie unterbrechen die wilden Laufspiele kurzzeitig, wohl um Kraft für die Fortsetzung des Spiels zu sammeln. `,
+    `Die T-Stellung ist eine Paarungsaufforderung zur Zeit der Ovulation, bei dem sich ein Tier seitlich senkrecht vor ein anderes stellt, so dass die beiden Körper ein T bilden.`,
+    `Bei der T-Stellung steht ein Tier seitlich senkrecht vor einem, so dass die beiden Körper ein T bilden. Das querstehende Tier zeigt so dem Partner seine Demutspose an.`,
+    `#Ein ritualisiertes Imponierverhalten, bei dem sich ein Tier seitlich senkrecht vor ein anderes stellt, so dass die beiden Körper ein T bilden. Der Imponierende formt dabei den Querbalken und schränkt die Bewegungsfreiheit des anderen ein.`,
+    `T-Stellungen sind häufige, ritualisierte Spielaufforderungen. Sie unterbrechen die wilden Laufspiele kurzzeitig, wohl um Kraft für die Fortsetzung des Spiels zu sammeln.`,
 
 
   ]),
-  q(`Welchem Funktionskreis wird Jagdverhalten zugeordnet? `, [
+  q(`Welchem Funktionskreis wird Jagdverhalten zugeordnet?`, [
 
-    `Soziales Verhalten. `,
-    `Schutz und Verteidigung. `,
-    `Komfortverhalten. `,
-    `#Stoffwechselbedingtes Verhalten. `,
-
-
-  ]),
-  q(`Nennen Sie Synonyme für den Begriff "Operante Konditionierung"? `, [
-
-    `Lernen am Erfolg und Misserfolg. `,
-    `Lernen durch Versuch und Irrtum. `,
-    `Klassische Konditionierung. `,
-    `#Instrumentelle Konditionierung. `,
+    `Soziales Verhalten.`,
+    `Schutz und Verteidigung.`,
+    `Komfortverhalten.`,
+    `#Stoffwechselbedingtes Verhalten.`,
 
 
   ]),
-  q(`Warum lernt und gehorcht ein Hund? `, [
+  q(`Nennen Sie Synonyme für den Begriff "Operante Konditionierung"?`, [
 
-    `Um anderen einen Gefallen zu tun `,
-    `Weil der Hund sein Herrchen so mag. `,
-    `#Um seinen eigenen Zustand zu optimieren. `,
-    `Weil der Trainer einfach etwas befiehlt. `,
-
-
-  ]),
-  q(`Was muss man beachten, um Fehlverknüpfungen bei der Ausbildung zu vermeiden? `, [
-
-    `Immer das gleiche, dem Hund unbekannte Kommando verwenden, solange bis das Tier endlich die von uns erwünschte Handlung zeigt. `,
-    `An einem ungestörten Ort trainieren, damit der Hund sich nur auf uns konzentriert. Dabei wird das dem Tier unbekannte Kommando ständig wiederholt bis der Hund versteht was wir von ihm möchten. `,
-    `#Zuerst die von uns erwünschte Handlung mit dem Hund trainieren, ohne dabei ein Kommando zu benutzen. Erst wenn der Hund die von uns erwünschte Handlung zeigt, wird das Kommando eingeführt. `,
-    `Ein dem Hund unbekanntes Kommando an verschiedenen Orten wiederholen, bis das Tier begreift, worum es geht. `,
+    `Lernen am Erfolg und Misserfolg.`,
+    `Lernen durch Versuch und Irrtum.`,
+    `Klassische Konditionierung.`,
+    `#Instrumentelle Konditionierung.`,
 
 
   ]),
-  q(`Was kann ein sekundärer Verstärker für einen Hund sein? `, [
+  q(`Warum lernt und gehorcht ein Hund?`, [
 
-    `Futter. `,
-    `#Clicker, nach vorheriger Koppelung mit Futter. `,
-    `Freie Partnerwahl. `,
-    `Spielen. `,
-    `Streicheleinheiten. `,
+    `Um anderen einen Gefallen zu tun`,
+    `Weil der Hund sein Herrchen so mag.`,
+    `#Um seinen eigenen Zustand zu optimieren.`,
+    `Weil der Trainer einfach etwas befiehlt.`,
+
+
+  ]),
+  q(`Was muss man beachten, um Fehlverknüpfungen bei der Ausbildung zu vermeiden?`, [
+
+    `Immer das gleiche, dem Hund unbekannte Kommando verwenden, solange bis das Tier endlich die von uns erwünschte Handlung zeigt.`,
+    `An einem ungestörten Ort trainieren, damit der Hund sich nur auf uns konzentriert. Dabei wird das dem Tier unbekannte Kommando ständig wiederholt bis der Hund versteht was wir von ihm möchten.`,
+    `#Zuerst die von uns erwünschte Handlung mit dem Hund trainieren, ohne dabei ein Kommando zu benutzen. Erst wenn der Hund die von uns erwünschte Handlung zeigt, wird das Kommando eingeführt.`,
+    `Ein dem Hund unbekanntes Kommando an verschiedenen Orten wiederholen, bis das Tier begreift, worum es geht.`,
+
+
+  ]),
+  q(`Was kann ein sekundärer Verstärker für einen Hund sein?`, [
+
+    `Futter.`,
+    `#Clicker, nach vorheriger Koppelung mit Futter.`,
+    `Freie Partnerwahl.`,
+    `Spielen.`,
+    `Streicheleinheiten.`,
 
 
   ]),
   q(`Shaping und Chaining sind:`, [
-    ` `,
-    `Zwei Worte, die mit der Hundeausbildung nichts zu tun haben. `,
-    `Zwei Ausbildungsgeräte für besonders aggressive Hunde. `,
-    `#Zwei Techniken (oder Methoden), einem Hund etwas bestimmtes beizubringen. `,
-    `Beim Shaping wird die Körperhaltung des Hundes geformt. Beim Chaining muss er sich in eine Reihe/Kette von Hunden einreihen. `,
-    `Zwei verschiedene Führtechniken beim Mantrailing. `,
-
-
+    `Zwei Worte, die mit der Hundeausbildung nichts zu tun haben.`,
+    `Zwei Ausbildungsgeräte für besonders aggressive Hunde.`,
+    `#Zwei Techniken (oder Methoden), einem Hund etwas bestimmtes beizubringen.`,
+    `Beim Shaping wird die Körperhaltung des Hundes geformt. Beim Chaining muss er sich in eine Reihe/Kette von Hunden einreihen.`,
+    `Zwei verschiedene Führtechniken beim Mantrailing.`,
   ]),
-  q(`Was bedeutet der Begriff Motivation? `, [
-
-    `Jeden Hund ausschließlich durch Leckerlis für eine Sache zu begeistern. `,
-    `Etwas, was der Hund gerne mag. `,
-    `#Motivation ist eine innere Handlungsbereitschaft, die ein zielgerichtetes Verhalten in Gang setzt und aufrechterhalten kann. `,
-
-
+  q(`Was bedeutet der Begriff Motivation?`, [
+    `Jeden Hund ausschließlich durch Leckerlis für eine Sache zu begeistern.`,
+    `Etwas, was der Hund gerne mag.`,
+    `#Motivation ist eine innere Handlungsbereitschaft, die ein zielgerichtetes Verhalten in Gang setzt und aufrechterhalten kann.`,
   ]),
-  q(`Was bedeutet generalisieren in der Hundeausbildung? `, [
-
-    `Hör- und Sichtzeichen, die der Hund lernen soll, sollten am besten immer nur von einer für das Tier ranghöheren Person (eben einem General) gegeben werden. `,
-    `Die Art dem Hund Hör- und Sichtzeichen zu geben, sollte allgemein immer die gleiche sein, auch wenn verschiedene Personen sich gleichzeitig an der Ausbildung des Tieres beteiligen. `,
+  q(`Was bedeutet generalisieren in der Hundeausbildung?`, [
+    `Hör- und Sichtzeichen, die der Hund lernen soll, sollten am besten immer nur von einer für das Tier ranghöheren Person (eben einem General) gegeben werden.`,
+    `Die Art dem Hund Hör- und Sichtzeichen zu geben, sollte allgemein immer die gleiche sein, auch wenn verschiedene Personen sich gleichzeitig an der Ausbildung des Tieres beteiligen.`,
     `#Da Hunde in der Regel sehr kontextspezifisch lernen, sollten Hör- und Sichtzeichen zu verschiedenen Tageszeiten, an verschiedenen Orten und damit in verschiedenen Situationen geübt werden.`,
-
-    ` `,
-    `Welche der folgenden Behauptungen ist richtig?  `,
-
-    `#Die Instrumentelle Konditionierung ist kontextspezifisch. `,
-    `Die Instrumentelle Konditionierung ist nicht kontextspezifisch. `,
-    `Die Instrumentelle Konditionierung ist das Therapieverfahren der Gegenkonditionierung in der Verhaltenstherapie. `,
-
-
+    ]),
+    q(`Welche der folgenden Behauptungen ist richtig? `, [
+    `#Die Instrumentelle Konditionierung ist kontextspezifisch.`,
+    `Die Instrumentelle Konditionierung ist nicht kontextspezifisch.`,
+    `Die Instrumentelle Konditionierung ist das Therapieverfahren der Gegenkonditionierung in der Verhaltenstherapie.`,
   ]),
   q(`Die „bedingte Aktion“ findet statt wenn:`, [
-    ` `,
-    `auf eine Wahrnehmung eine positive Erfahrung folgt. `,
-    `auf ein Verhalten eine schlechte Erfahrung folgt. `,
-    `auf eine Wahrnehmung eine negative Erfahrung folgt. `,
-    `#auf ein Verhalten eine gute Erfahrung folgt. `,
+    `auf eine Wahrnehmung eine positive Erfahrung folgt.`,
+    `auf ein Verhalten eine schlechte Erfahrung folgt.`,
+    `auf eine Wahrnehmung eine negative Erfahrung folgt.`,
+    `#auf ein Verhalten eine gute Erfahrung folgt.`,
+  ]),
+  q(`Was bedeutet Chaining in der Hundeausbildung?`, [
+
+    `Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das dafür nötige Kommando eingeführt. Es handelt sich dabei um eine Handlungskette.`,
+    `Der Hund wird mit einer Angstsituation so lange konfrontiert (angekettet), bis er die unerwünschte Angstreaktion nicht mehr zeigt.`,
+    `#Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden.`,
+    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt. Es handelt sich dabei um eine Handlungskette.`,
+    `Dieses Wort hat in der Hundeausbildung keine Bedeutung.`,
+    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen.`,
 
 
   ]),
-  q(`Was bedeutet Chaining in der Hundeausbildung? `, [
+  q(`Was bedeutet Flooding in der Verhaltenstherapie von Hunden?`, [
 
-    `Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das dafür nötige Kommando eingeführt. Es handelt sich dabei um eine Handlungskette. `,
-    `Der Hund wird mit einer Angstsituation so lange konfrontiert (angekettet), bis er die unerwünschte Angstreaktion nicht mehr zeigt. `,
-    `#Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden. `,
-    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt. Es handelt sich dabei um eine Handlungskette. `,
-    `Dieses Wort hat in der Hundeausbildung keine Bedeutung. `,
-    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen. `,
-
-
-  ]),
-  q(`Was bedeutet Flooding in der Verhaltenstherapie von Hunden? `, [
-
-    `Der Hund wird mit Reizen überflutet, die keine Angst beim Hund auslösen, um ihn erst einmal an viele andere Reize zu gewöhnen. `,
-    `#Der Hund wird mit Angst auslösenden Reizen (einer hohen Reizstufe) so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt oder diese in ihrer Intensität deutilch abnimmt. `,
-    `Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden. `,
-    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt. `,
-    `Der Hund wird mit einer Angstsituation (einer hohen Reizstufe) so lange konfrontiert bei gleichzeitigem Hör- oder Sichtzeichen, bis die Angstreaktion unter Signalkontrolle steht. `,
-    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen. `,
+    `Der Hund wird mit Reizen überflutet, die keine Angst beim Hund auslösen, um ihn erst einmal an viele andere Reize zu gewöhnen.`,
+    `#Der Hund wird mit Angst auslösenden Reizen (einer hohen Reizstufe) so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt oder diese in ihrer Intensität deutilch abnimmt.`,
+    `Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden.`,
+    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt.`,
+    `Der Hund wird mit einer Angstsituation (einer hohen Reizstufe) so lange konfrontiert bei gleichzeitigem Hör- oder Sichtzeichen, bis die Angstreaktion unter Signalkontrolle steht.`,
+    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen.`,
 
 
   ]),
-  q(`Was bedeutet Gegenkonditionierung in der Hundeausbildung und in der Verhaltenstherapie? `, [
+  q(`Was bedeutet Gegenkonditionierung in der Hundeausbildung und in der Verhaltenstherapie?`, [
 
-    `Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das dafür nötige Kommando eingeführt. `,
-    `Der Hund wird ständig mit einer Angstsituation so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt und wird dann belohnt. `,
-    `Die Vermeidung einer Problemsituation. `,
-    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt. `,
-    `Es bedeutet auch, dass der Hund dabei ständig kontextspezifisch lernt, d.h. es ist eine Form der instrumentellen Konditionierung. `,
-    `Es bedeutet auch, dass der Hund dabei kontextspezifisch lernen kann, d.h. es ist eine Form der klassischen Konditionierung Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernen kann, d.h. es ist eine Form der instrumentellen Konditionierung. `,
-    `#Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernt, d.h. es ist eine Form der klassischen Konditionierung. `,
-    `Keine der hier angegebenen, möglichen Antworten trifft zu. `,
-
-
-  ]),
-  q(`Was bedeutet Shaping in der Hundeausbildung? `, [
-
-    `#Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das erwünschte Verhalten unter Signalkontrolle gestellt. `,
-    `Der Hund wird mit einer Angstsituation so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt `,
-    `Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden `,
-    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt `,
-    `Dieses Wort hat in der Hundeausbildung keine Bedeutung `,
-    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen `,
+    `Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das dafür nötige Kommando eingeführt.`,
+    `Der Hund wird ständig mit einer Angstsituation so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt und wird dann belohnt.`,
+    `Die Vermeidung einer Problemsituation.`,
+    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt.`,
+    `Es bedeutet auch, dass der Hund dabei ständig kontextspezifisch lernt, d.h. es ist eine Form der instrumentellen Konditionierung.`,
+    `Es bedeutet auch, dass der Hund dabei kontextspezifisch lernen kann, d.h. es ist eine Form der klassischen Konditionierung Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernen kann, d.h. es ist eine Form der instrumentellen Konditionierung.`,
+    `#Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernt, d.h. es ist eine Form der klassischen Konditionierung.`,
+    `Keine der hier angegebenen, möglichen Antworten trifft zu.`,
 
 
   ]),
-  q(`Was muss man beachten, damit der Hund auf Hörzeichen und nicht auf Sichtzeichen reagiert? `, [
+  q(`Was bedeutet Shaping in der Hundeausbildung?`, [
 
-    `#Zuerst dem Hund das Hörzeichen und unmittelbar danach das Sichtzeichen geben `,
-    `Zuerst dem Hund das Sichtzeichen und unmittelbar danach das Hörzeichen geben `,
-    `Eine Überschattung von Sicht- und Hörzeichen ist grundsätzlich nicht möglich `,
-
-
-  ]),
-  q(`Welcher der folgenden Faktoren spielt die wichtigste Rolle bei der Assoziation und Konditionierung? `, [
-
-    `#Das Timing. `,
-    `Die Ausbildungsmethode. `,
-    `Die vorhandenen Gegenstände. `,
-    `Der Ausbilder oder die Ausbilderin. `,
-    `Das Alter des Hundes. `,
+    `#Der Mensch führt den Hund in kleinen Schritten, die immer belohnt werden sollten, bis zu einem erwünschten Verhalten. Erst dann wird das erwünschte Verhalten unter Signalkontrolle gestellt.`,
+    `Der Hund wird mit einer Angstsituation so lange konfrontiert, bis er die unerwünschte Angstreaktion nicht mehr zeigt`,
+    `Eine Handlungskette wird in ihre einzelnen Elemente zerlegt. Jeder Teil der Handlung wird zunächst einzeln trainiert. Am Ende wird dann aus den einzeln eingeübten Aktionen eine zusammenhängende Reihenfolge aufgebaut. Die Segmente werden wieder zur Handlungskette zusammengesetzt. Man sollte immer mit der Endhandlung beginnen und die vorhergehenden Übungen der Reihe nach hinzufügen. Jede Endhandlung der Kette sollte durch Belohnung motiviert werden`,
+    `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt`,
+    `Dieses Wort hat in der Hundeausbildung keine Bedeutung`,
+    `Dieses Wort hat in der Hundeausbildung keine der hier aufgeführten Bedeutungen`,
 
 
   ]),
-  q(`Kennen und empfinden Hunde Emotionen? `, [
+  q(`Was muss man beachten, damit der Hund auf Hörzeichen und nicht auf Sichtzeichen reagiert?`, [
 
-    `Ja, nur einige Rassen. `,
-    `Ja, nur einige Hunde einiger Rassen. `,
-    `#Ja, alle Hunde unabhängig von der Rasse. `,
-    `Nein, Hunde empfinden keine Emotionen. `,
-
-
-  ]),
-  q(`Was sind GABA, Serotonin, Noradrenalin und Dopamin? `, [
-
-    `Vier verschiedene Nervenzellen. `,
-    `Vier unterschiedliche Reize. `,
-    `#Vier Neurotransmitter. `,
-    `Vier Gehirnteile. `,
+    `#Zuerst dem Hund das Hörzeichen und unmittelbar danach das Sichtzeichen geben`,
+    `Zuerst dem Hund das Sichtzeichen und unmittelbar danach das Hörzeichen geben`,
+    `Eine Überschattung von Sicht- und Hörzeichen ist grundsätzlich nicht möglich`,
 
 
   ]),
-  q(`Wie werden die Nervenzellen auch genannt? `, [
+  q(`Welcher der folgenden Faktoren spielt die wichtigste Rolle bei der Assoziation und Konditionierung?`, [
 
-    `Neutronen. `,
-    `#Neuronen. `,
-    `Positronen. `,
-
-
-  ]),
-  q(`Was benutzen die Nervenzellen um miteinander zu kommunizieren? `, [
-
-    `Liquor. `,
-    `Blut. `,
-    `#Neurotransmitter. `,
-    `Plasma. `,
-    `Psychopharmaka. `,
+    `#Das Timing.`,
+    `Die Ausbildungsmethode.`,
+    `Die vorhandenen Gegenstände.`,
+    `Der Ausbilder oder die Ausbilderin.`,
+    `Das Alter des Hundes.`,
 
 
   ]),
-  q(`Wo entstehen Emotionen? `, [
+  q(`Kennen und empfinden Hunde Emotionen?`, [
 
-    `In einem Teil des Gehirns namens "Cortex". `,
-    `#In einem Teil des Gehirns namens "Limbische System". `,
-    `In einem Teil der Schilddrüse namens "Thyroidea". `,
-    `In einem Teil der Nebenschilddrüsen namens "Epithelkörperchen". `,
-    `In einem Teil der Nebennierendrüsen namens "Rinde". `,
-
-
-  ]),
-  q(`Wofür ist das "Limbische System" im Gehirn auch zuständig? `, [
-
-    `#Für das Entstehen von Emotionen. `,
-    `Für die Regulation der Körpertemperatur. `,
-    `Für die Kontrolle der Körperhaltung. `,
-    `Für die bewusste Wahrnehmung und die Verarbeitung einiger Emotionen. `,
+    `Ja, nur einige Rassen.`,
+    `Ja, nur einige Hunde einiger Rassen.`,
+    `#Ja, alle Hunde unabhängig von der Rasse.`,
+    `Nein, Hunde empfinden keine Emotionen.`,
 
 
   ]),
-  q(`Wofür ist der "Cortex" im Gehirn auch zuständig? `, [
+  q(`Was sind GABA, Serotonin, Noradrenalin und Dopamin?`, [
 
-    `Für das Entstehen von Emotionen. `,
-    `Für die Regulation der Körpertemperatur. `,
-    `Für die Kontrolle der Körperhaltung. `,
-    `#Für die bewusste Wahrnehmung und die Verarbeitung einiger Emotionen. `,
-
-
-  ]),
-  q(`Welche Vorschriften gelten nicht für Hundehalter? `, [
-
-    `Straßenverkehrsordnung `,
-    `Tierschutz-Hundeverordnung `,
-    `#Viehverkehrsordnung `,
-    `Forstgesetz `,
+    `Vier verschiedene Nervenzellen.`,
+    `Vier unterschiedliche Reize.`,
+    `#Vier Neurotransmitter.`,
+    `Vier Gehirnteile.`,
 
 
   ]),
-  q(`Darf ein Hund in einem Raum gehalten werden, der nicht dem Aufenthalt von Menschen dient (z.B. Garage, Keller)? `, [
+  q(`Wie werden die Nervenzellen auch genannt?`, [
 
-    `Ja, wenn er sich dort ausreichend bewegen kann. `,
-    `Ja, wenn er dort nicht allein ist. `,
-    `Ja, Hauptsache er ist vor Witterungseinflüssen geschützt. `,
-    `#Ja, unter Einhaltung der rechtlichen Regelungen zu Lichteinfall, Beleuchtung, Größe, Bodenfläche, Frischluftzufuhr und Heizung. `,
+    `Neutronen.`,
+    `#Neuronen.`,
+    `Positronen.`,
 
 
   ]),
-  q(`Wie reagieren Sie auf einen Welpen, der sie im Spiel beißt oder zwickt? `, [
+  q(`Was benutzen die Nervenzellen um miteinander zu kommunizieren?`, [
 
-    `Gar nicht, dieses Verhalten legt sich von selbst, sobald er erwachsen ist. `,
+    `Liquor.`,
+    `Blut.`,
+    `#Neurotransmitter.`,
+    `Plasma.`,
+    `Psychopharmaka.`,
+
+
+  ]),
+  q(`Wo entstehen Emotionen?`, [
+
+    `In einem Teil des Gehirns namens "Cortex".`,
+    `#In einem Teil des Gehirns namens "Limbische System".`,
+    `In einem Teil der Schilddrüse namens "Thyroidea".`,
+    `In einem Teil der Nebenschilddrüsen namens "Epithelkörperchen".`,
+    `In einem Teil der Nebennierendrüsen namens "Rinde".`,
+
+
+  ]),
+  q(`Wofür ist das "Limbische System" im Gehirn auch zuständig?`, [
+
+    `#Für das Entstehen von Emotionen.`,
+    `Für die Regulation der Körpertemperatur.`,
+    `Für die Kontrolle der Körperhaltung.`,
+    `Für die bewusste Wahrnehmung und die Verarbeitung einiger Emotionen.`,
+
+
+  ]),
+  q(`Wofür ist der "Cortex" im Gehirn auch zuständig?`, [
+
+    `Für das Entstehen von Emotionen.`,
+    `Für die Regulation der Körpertemperatur.`,
+    `Für die Kontrolle der Körperhaltung.`,
+    `#Für die bewusste Wahrnehmung und die Verarbeitung einiger Emotionen.`,
+
+
+  ]),
+  q(`Welche Vorschriften gelten nicht für Hundehalter?`, [
+
+    `Straßenverkehrsordnung`,
+    `Tierschutz-Hundeverordnung`,
+    `#Viehverkehrsordnung`,
+    `Forstgesetz`,
+
+
+  ]),
+  q(`Darf ein Hund in einem Raum gehalten werden, der nicht dem Aufenthalt von Menschen dient (z.B. Garage, Keller)?`, [
+
+    `Ja, wenn er sich dort ausreichend bewegen kann.`,
+    `Ja, wenn er dort nicht allein ist.`,
+    `Ja, Hauptsache er ist vor Witterungseinflüssen geschützt.`,
+    `#Ja, unter Einhaltung der rechtlichen Regelungen zu Lichteinfall, Beleuchtung, Größe, Bodenfläche, Frischluftzufuhr und Heizung.`,
+
+
+  ]),
+  q(`Wie reagieren Sie auf einen Welpen, der sie im Spiel beißt oder zwickt?`, [
+
+    `Gar nicht, dieses Verhalten legt sich von selbst, sobald er erwachsen ist.`,
     `#Ich sollte es nicht dulden und das Spiel unverzüglich unterbrechen.`,
-    `Eine Beißhemmung ist entweder angeboren oder fehlt, daher kann man den Welpen in dieser Hinsicht nicht erziehen. `,
-    `Ich sollte es dulden, solange er noch sehr klein ist. `,
+    `Eine Beißhemmung ist entweder angeboren oder fehlt, daher kann man den Welpen in dieser Hinsicht nicht erziehen.`,
+    `Ich sollte es dulden, solange er noch sehr klein ist.`,
     `Ich packe ihn im Nacken und schüttele in kräftig, denn so würde auch die Mutterhündin reagieren.`,
 
 
   ]),
-  q(`Ist die Belohnung mit Futter oder Spielzeug zur Erziehung von Hunden geeignet? `, [
+  q(`Ist die Belohnung mit Futter oder Spielzeug zur Erziehung von Hunden geeignet?`, [
 
-    `#Durch Belohnung mit Futter oder Spiel kann ich dem Hund z.B. anfangs gut erklären, welches Verhalten ich von ihm sehen möchte, später kann ich die Belohnungen langsam reduzieren. `,
-    `Wenn ich Futter oder Spielzeug einsetze, wird mein Hund davon abhängig und reagiert später nur noch, wenn ich Futter dabeihabe. `,
+    `#Durch Belohnung mit Futter oder Spiel kann ich dem Hund z.B. anfangs gut erklären, welches Verhalten ich von ihm sehen möchte, später kann ich die Belohnungen langsam reduzieren.`,
+    `Wenn ich Futter oder Spielzeug einsetze, wird mein Hund davon abhängig und reagiert später nur noch, wenn ich Futter dabeihabe.`,
 
 
   ]),
   q(`Was kann passieren, wenn ich meinen Hund häufig durch Schreck- oder Schmerz- Reize bestrafe? (z.B. Anschreien, Klaps geben, Schlagen, usw.)`, [
-    ` `,
-    `#Er könnte die Strafe mit etwas anderem als seinem Fehlverhalten verbinden und dadurch verwirrt sein, Angst vor mir bekommen oder sogar aggressiv reagieren. `,
-    `Der Hund lernt Respekt vor mir zu haben. `,
-    `Nichts, solange ich den Hund nicht mit der bloßen Hand bestrafe, sondern z.B. eine zusammen gerollte Zeitung nehme. Sonst lernt er Angst vor der Hand zu haben. `,
-    `Nichts, das ist die Sprache, die ein Hund versteht, denn so erziehen sie sich unter einander auch. `,
+    `#Er könnte die Strafe mit etwas anderem als seinem Fehlverhalten verbinden und dadurch verwirrt sein, Angst vor mir bekommen oder sogar aggressiv reagieren.`,
+    `Der Hund lernt Respekt vor mir zu haben.`,
+    `Nichts, solange ich den Hund nicht mit der bloßen Hand bestrafe, sondern z.B. eine zusammen gerollte Zeitung nehme. Sonst lernt er Angst vor der Hand zu haben.`,
+    `Nichts, das ist die Sprache, die ein Hund versteht, denn so erziehen sie sich unter einander auch.`,
 
 
   ]),
-  q(`Wie lange hat man Zeit, um seinen Hund für eine erwünschte Handlung zu loben? `, [
+  q(`Wie lange hat man Zeit, um seinen Hund für eine erwünschte Handlung zu loben?`, [
 
-    `Zwischen 30 Sekunden und 2 Minuten. `,
+    `Zwischen 30 Sekunden und 2 Minuten.`,
     `Genau 5 Minuten.`,
-    `#Maximal 2 Sekunden. `,
+    `#Maximal 2 Sekunden.`,
     `Die Zeit ist nicht wichtig, Hauptsache man lobt.`,
 
 
   ]),
-  q(`Wann wird eine Hündin in der Regel das erste Mal läufig? `, [
+  q(`Wann wird eine Hündin in der Regel das erste Mal läufig?`, [
 
-    `Innerhalb der ersten 3 Monate. `,
-    `#Zwischen dem 6. und 15. Monat. `,
-    `Zwischen dem 16. und 24. Monat. `,
-    `Nach 24 Monaten. `,
+    `Innerhalb der ersten 3 Monate.`,
+    `#Zwischen dem 6. und 15. Monat.`,
+    `Zwischen dem 16. und 24. Monat.`,
+    `Nach 24 Monaten.`,
 
 
   ]),
   q(`Wann ist die empfängnisbereite Zeit während der Läufigkeit?`, [
-    ` `,
-    `Vom ersten Tag an. `,
-    `Erst am letzten Tag. `,
-    `Die ganze Zeit über. `,
-    `#Ca. zwischen dem 8. und 15.Tag nach Einsetzen der Blutung. `,
-
-
+    `Vom ersten Tag an.`,
+    `Erst am letzten Tag.`,
+    `Die ganze Zeit über.`,
+    `#Ca. zwischen dem 8. und 15.Tag nach Einsetzen der Blutung.`,
   ]),
-  q(`Wie lange dauert die Trächtigkeit einer Hündin in etwa? `, [
+  q(`Wie lange dauert die Trächtigkeit einer Hündin in etwa?`, [
 
-    `53 Tage `,
-    `#63 Tage `,
-    `73 Tage `,
+    `53 Tage`,
+    `#63 Tage`,
+    `73 Tage`,
     `93 Tage`,
 
 
@@ -2024,23 +1959,18 @@ export const para11abs1Nr8f: Question[] = [
 
   ]),
   q(`Welche Pflicht besteht für gefährliche Hunde bezüglich Kennzeichnung (§ 4 Abs. 3)?`, [
-
     `#Chip- oder Tätowierkennzeichnung.`,
     `Farbiges Halsband.`,
     `Steuermarke am Halsband.`,
     `Warnweste mit Kennzeichnung.`,
     `Keine besondere Kennzeichnung.`,
-    ` `,
-
-    `Wann gilt eine Leinenpflicht für Hunde in Baden-Württemberg?`,
-
+    ]),
+    q(`Wann gilt eine Leinenpflicht für Hunde in Baden-Württemberg?`, [
     `#Wenn die Gemeinde eine vorschreibt.`,
     `Immer in der Innenstadt.`,
     `Zur Brut- und Setzzeit.`,
     `Im Naturschutzgebiet.`,
     `An öffentlichen Plätzen.`,
-
-
   ]),
   q(`Wie viel Umgang muss ein Welpe bis zu 20 Wochen pro Tag mit einer Betreuungsperson haben?`, [
 
@@ -2048,8 +1978,6 @@ export const para11abs1Nr8f: Question[] = [
     `2 Stunden.`,
     `#4 Stunden.`,
     `6 Stunden.`,
-
-
   ]),
   q(`Ab welchem Alter darf ein Welpe frühestens von der Mutter getrennt werden?`, [
 
@@ -2121,53 +2049,53 @@ export const para11abs1Nr8f: Question[] = [
     `Halbjährige Entwurmunung.`,
     `Wasserwechsel einmal in der Woche.`,
   ]),
-  q(`Was sollte man dem Hund verbieten, weil er dieses Verhalten sonst auch bei Fremden zeigen könnte? `, [
+  q(`Was sollte man dem Hund verbieten, weil er dieses Verhalten sonst auch bei Fremden zeigen könnte?`, [
 
-    `#Anspringen. `,
-    `#Nach Spielzeug oder Leckerli springen und schnappen. `,
-    `#In Kleidungsstücke beißen. `,
-    `#Kindern oder Erwachsenen im Spiel hinterher laufen oder diese jagen. `,
+    `#Anspringen.`,
+    `#Nach Spielzeug oder Leckerli springen und schnappen.`,
+    `#In Kleidungsstücke beißen.`,
+    `#Kindern oder Erwachsenen im Spiel hinterher laufen oder diese jagen.`,
   ]),
   q(`Welche Regeln sollten im Spiel zwischen Hund und Mensch beachtet werden?`, [
 
-    `#Es sind alle Beutespiele tabu, bei denen der Mensch selbst oder die von ihm getragene Kleidung die Beute darstellen. `,
+    `#Es sind alle Beutespiele tabu, bei denen der Mensch selbst oder die von ihm getragene Kleidung die Beute darstellen.`,
     `#Es sollte darauf geachtet werden, dass der Hund nicht in Übererregung gerät und das Spiel kontrollierbar bleibt.`,
-    `#Man sollte darauf achten, dass man das Spiel jederzeit und sofort beenden kann. `,
+    `#Man sollte darauf achten, dass man das Spiel jederzeit und sofort beenden kann.`,
 
 
   ]),
-  q(`Was muss ich beachten, wenn ich einem Hund ein Kommando beibringen möchte? `, [
+  q(`Was muss ich beachten, wenn ich einem Hund ein Kommando beibringen möchte?`, [
 
-    `Ein Hund versteht die menschliche Sprache und weiß von Natur aus, was die Kommandos bedeuten.  `,
-    `#Ein Hund muss erst verstehen, welches Verhalten er auf ein Kommando hin zeigen soll. `,
-    `#Wenn ich ein Kommando oft wiederhole, während der Hund gerade nicht hört oder ein anderes Verhalten zeigt, kann er das Kommando leicht verlernen oder mit einem falschen Verhalten verbinden.  `,
+    `Ein Hund versteht die menschliche Sprache und weiß von Natur aus, was die Kommandos bedeuten. `,
+    `#Ein Hund muss erst verstehen, welches Verhalten er auf ein Kommando hin zeigen soll.`,
+    `#Wenn ich ein Kommando oft wiederhole, während der Hund gerade nicht hört oder ein anderes Verhalten zeigt, kann er das Kommando leicht verlernen oder mit einem falschen Verhalten verbinden. `,
     `#Ich muss jedes Kommando häufig und in ganz verschiedenen Situationen üben, bis der Hund auch bei Ablenkung darauf reagiert.`,
 
 
   ]),
-  q(`Welche Erfahrungen sind für ein reibungsloses Zusammenleben in der menschlichen Gesellschaft für einen Welpen wichtig? `, [
+  q(`Welche Erfahrungen sind für ein reibungsloses Zusammenleben in der menschlichen Gesellschaft für einen Welpen wichtig?`, [
 
-    `#Er sollte in positiven Begegnungen viele verschiedenen Menschen (von Babies bis zu alten Menschen) kennenlernen. `,
-    `#Fahrten mit öffentlichen Verkehrsmitteln und Teilnahme am turbulenten Straßenverkehr. `,
-    `Welpen sollten möglichst viel im heimischen Bereich gehalten werden, damit sie nicht überfordert werden. `,
+    `#Er sollte in positiven Begegnungen viele verschiedenen Menschen (von Babies bis zu alten Menschen) kennenlernen.`,
+    `#Fahrten mit öffentlichen Verkehrsmitteln und Teilnahme am turbulenten Straßenverkehr.`,
+    `Welpen sollten möglichst viel im heimischen Bereich gehalten werden, damit sie nicht überfordert werden.`,
 
 
   ]),
   q(`Was ist zur Mitnahme von Hunden im Auto zu sagen?`, [
 
-    `Der Hund sollte auf dem Beifahrersitz sitzen. `,
-    `Der Hund sollte im Kofferraum transportiert werden. `,
-    `#Der Hund sollte im Auto gesichert transportiert werden.  `,
-    `#Man kann den Hund z.B. in einer Transportbox, die auf dem Rücksitz befestigt ist, transportieren. `,
+    `Der Hund sollte auf dem Beifahrersitz sitzen.`,
+    `Der Hund sollte im Kofferraum transportiert werden.`,
+    `#Der Hund sollte im Auto gesichert transportiert werden. `,
+    `#Man kann den Hund z.B. in einer Transportbox, die auf dem Rücksitz befestigt ist, transportieren.`,
 
 
   ]),
   q(`Welche Hilfsmittel/Zubehör dürfen bei der Haltung/Erziehung des Hundes eingesetzt werden?`, [
 
-    `#Kopfhaltesystem, das bei Zug einen Druck auf den Hinterkopf ausübt  `,
-    `#Maulkorb `,
-    `#Brustgeschirr `,
-    `Ein sich zuziehendes Halsband ohne Zugstopp `,
+    `#Kopfhaltesystem, das bei Zug einen Druck auf den Hinterkopf ausübt `,
+    `#Maulkorb`,
+    `#Brustgeschirr`,
+    `Ein sich zuziehendes Halsband ohne Zugstopp`,
 
 
   ]),
@@ -2262,7 +2190,7 @@ export const para11abs1Nr8f: Question[] = [
   ]),
   q(`Nach TierSchHuV §2 Abs. 1 werden folgende Anforderungen an das Halten eines Hundes gestellt:`, [
 
-    `#Hunden muss ausreichender Auslauf im Freien außerhalb des Zwingers gewährleistet sein. `,
+    `#Hunden muss ausreichender Auslauf im Freien außerhalb des Zwingers gewährleistet sein.`,
     `Hunde müssen haftpflichtversichert sein.`,
     `Hunde dürfen nicht alleine gehalten werden, es sei denn sie sind unverträglich.`,
     `#Hunden muss regelmäßiger Kontakt zu Artgenossen möglich sein, es sei denn, dies ist aus gesundheitlichen Gründen oder aus Gründen der Unverträglichkeit zum Schutz des Hundes oder seiner Artgenossen nicht möglich.`,

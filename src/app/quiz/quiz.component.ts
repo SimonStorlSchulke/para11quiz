@@ -199,6 +199,16 @@ export class QuizComponent implements OnInit {
     }
   }
 
+  checkAnswerSc(checked: any, id: number): void {
+    console.log(checked);
+    const isChecked = checked.currentTarget.checked;
+    if(isChecked) {
+      this.checkedAnswers = new Set<number>([id]);
+    } else {
+      this.checkedAnswers = new Set<number>();
+    }
+  }
+
   openStreaks() {
     this.streaksPopup = true;
   }

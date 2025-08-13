@@ -16,7 +16,7 @@
           <div class="option-wrapper" [class]="getAnswerState($index)">
             <div class="answer-wrapper">
                 @if(getIsSingleChoice()) {
-                    <input [disabled]="hasSubmitted" type="radio" id="answer-{{$index}}" name="scales" [checked]="checkedAnswers.has($index)" (change)="checkAnswer($event, $index)"/>
+                  <input [disabled]="hasSubmitted" type="radio" id="answer-{{$index}}" name="scales" [checked]="checkedAnswers.has($index)" (change)="checkAnswerSc($event, $index)"/>
                 } @else {
                   <input [disabled]="hasSubmitted" type="checkbox" id="answer-{{$index}}" name="scales" [checked]="checkedAnswers.has($index)" (change)="checkAnswer($event, $index)"/>
                 }

@@ -652,9 +652,9 @@ export const para11abs1Nr8f: Question[] = [
   ]),
   q("Welche der folgenden Bestimmungen gelten in Deutschland?", [
 
-    `#Ein Hundehalter haftet nur für Schäden, die sein Hund anrichtet, wenn er diesen frei laufen lässt.`,
-    `#Ein Hundehalter haftet nur für Schäden, die sein Hund in der Öffentlichkeit anrichtet.`,
-    `Ein Hundehalter haftet für alle Schäden, die sein Hund anrichtet. Ausnahmen gibt es nur für sogenannte Funktionshunde (z. B. Blindenführhunde, Polizeihunde, Behindertenbegleithunde).`,
+    `Ein Hundehalter haftet nur für Schäden, die sein Hund anrichtet, wenn er diesen frei laufen lässt.`,
+    `Ein Hundehalter haftet nur für Schäden, die sein Hund in der Öffentlichkeit anrichtet.`,
+    `#Ein Hundehalter haftet für alle Schäden, die sein Hund anrichtet. Ausnahmen gibt es nur für sogenannte Funktionshunde (z. B. Blindenführhunde, Polizeihunde, Behindertenbegleithunde).`,
 
   ]),
   q("Welche der folgenden Bestimmungen gilt in Deutschland für die Zwingerhaltung von Hunden?", [
@@ -666,13 +666,9 @@ export const para11abs1Nr8f: Question[] = [
     `Ein Hund darf nicht alleine im Zwinger gehalten werden. Es müssen mindestens zwei Hunde im Zwinger sein.`,
 
   ]),
-  q("Welche der folgenden Bestimmungen gilt in Deutschland für die Anbindehaltung von Hunden?", [
-
-    `Jede Art der Anbindehaltung von Hunden ist in Deutschland verboten.`,
-    `#Die Anbindehaltung ist nur an einer Laufvorrichtung zulässig. Diese muss mindestens 6 m lang sein und einen seitlichen Bewegungsspielraum von mindestens 5 m haben.`,
-    `Hunde dürfen nur stundenweise im Freien angebunden werden (Insgesamt höchstens 12 Std. am Tag).`,
-    `#Der Hund muss eine Schutzhütte aufsuchen können, die ihn vor Kälte und übermäßiger Sonneneinstrahlung schützt.`,
-
+  q("Platzhalterfrage - einfach A ankreuzen", [
+    `#A (richtig)`,
+    `B`
   ]),
   q("Welche der folgenden Personen gelten aus juristischer Sicht als Hundehalter?", [
 

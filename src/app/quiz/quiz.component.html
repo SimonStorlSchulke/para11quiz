@@ -50,10 +50,13 @@
         <div class="close" (click)="closeStreaks()">X</div>
         <h2>Streaks</h2>
         <span>Zeigt Für die Kategoriekombination <b>{{categories.join(', ')}}</b> an, wie oft hintereinander jede Frage zuletzt richtig beantwortet wurde.</span>
+        <b class="streak-info {{getLearnedQuestionsColor()}}">{{getStreakMapAmount()}}</b>
         @for (entry of streakMap; track $index) {
           @if(entry[1] > 0) {
             <span class="question">
-              <span class="streak-category-tag" [style.background-color]="questions[entry[0]].categoryColor">{{questions[entry[0]].categoryName}}</span>
+              @if(categories.length > 1) {
+                <span class="streak-category-tag" [style.background-color]="questions[entry[0]].categoryColor">{{questions[entry[0]].categoryName}}</span>
+              }
               <span class="streak-prompt">{{questions[entry[0]].prompt}}</span> &nbsp;&nbsp;
               <b class="streak-num" [class.lightgreen]="entry[1] == 2" [class.green]="entry[1] > 2">{{entry[1]}}x</b>
             </span>

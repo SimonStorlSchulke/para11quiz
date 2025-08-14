@@ -159,3 +159,16 @@
   font-size: 0.75rem;
   border: 1px solid #a7a7a7;
 }
+
+.streak-info {
+  padding-bottom: 8px;
+  &.red {
+    color: #ab3333;
+  }
+  &.yellow {
+    color: #a38e2d;
+  }
+  &.green {
+    color: #5fb81d;
+  }
+}

@@ -16,7 +16,7 @@ export class QuizComponent implements OnInit {
 
   questions: Question[] = [];
 
-  streakMap = new  Map<number, number>();
+  streakMap = new Map<number, number>();
   currentQuestionIndex = 0;
   currentQuestion$?: BehaviorSubject<Question>;
   checkedAnswers = new Set<number>();
@@ -35,7 +35,7 @@ export class QuizComponent implements OnInit {
     this.categories.sort()
     const keysNotFound = this.categories.find(c => !questionCategories.has(c));
 
-    if(!this.categories || keysNotFound) {
+    if (!this.categories || keysNotFound) {
       console.log("No Categories");
       return;
     }
@@ -65,7 +65,7 @@ export class QuizComponent implements OnInit {
 
     let allCorrect = true;
 
-    for (let i = 0; i < this.currentQuestion$!.value.answers.length; i++){
+    for (let i = 0; i < this.currentQuestion$!.value.answers.length; i++) {
       const state = this.getAnswerState(i);
       if (state == "wrong-show-correct" || state == "wrong") {
         allCorrect = false;
@@ -92,7 +92,7 @@ export class QuizComponent implements OnInit {
   getLearnedQuestionsAmount(): number {
     let learned = 0;
     this.streakMap.forEach((value, key) => {
-      if(value >= 3){
+      if (value >= 3) {
         learned++;
       }
     });
@@ -101,8 +101,8 @@ export class QuizComponent implements OnInit {
 
   getLearnedQuestionsColor() {
     const learned = this.getLearnedQuestionsAmount();
-    if(learned / this.questions.length > 0.8) return "green";
-    if(learned / this.questions.length > 0.5) return "yellow";
+    if (learned / this.questions.length > 0.8) return "green";
+    if (learned / this.questions.length > 0.5) return "yellow";
     return "red";
   }
 
@@ -111,14 +111,14 @@ export class QuizComponent implements OnInit {
   }
 
   getAnswerState(answerId: number): "none" | "correct" | "wrong" | "wrong-show-correct" {
-    if(!this.hasSubmitted) return "none";
+    if (!this.hasSubmitted) return "none";
 
     const isCorrect = this.currentQuestion$!.value.answers[answerId].startsWith("#");
 
-    if(isCorrect && this.submittedAnswers.has(answerId)) return "correct";
-    if(isCorrect && !this.submittedAnswers.has(answerId)) return "wrong-show-correct";
-    if(!isCorrect && !this.submittedAnswers.has(answerId)) return "none";
-    if(!isCorrect && this.submittedAnswers.has(answerId)) return "wrong";
+    if (isCorrect && this.submittedAnswers.has(answerId)) return "correct";
+    if (isCorrect && !this.submittedAnswers.has(answerId)) return "wrong-show-correct";
+    if (!isCorrect && !this.submittedAnswers.has(answerId)) return "none";
+    if (!isCorrect && this.submittedAnswers.has(answerId)) return "wrong";
     return "none";
   }
 
@@ -127,27 +127,58 @@ export class QuizComponent implements OnInit {
   }
 
   getBiasedRandomQuestionId(): number {
-    let weightedQuestions: { index: number; weight: number }[] = [];
+    const HIGH_STREAK_THRESHOLD = 3;
+    const HIGH_STREAK_PROB = 0.15;
 
-    for (let i = 0; i < this.questions.length; i++){
-      let streakBias = this.streakMap.get(i) ?? 0; // Default to 0 if not in the map
+    let highStreak: number[] = [];
+    let lowStreak: { index: number; weight: number }[] = [];
 
+    for (let i = 0; i < this.questions.length; i++) {
+      let streakBias = this.streakMap.get(i) ?? 0;
 
-      if(streakBias > 4) streakBias = 100000;
-
-      const weight = 1 / (1 + streakBias); // Inverse weight: More correct answers → Lower weight
-
-      weightedQuestions.push({ index: i, weight });
+      if (streakBias >= HIGH_STREAK_THRESHOLD) {
+        highStreak.push(i);
+      } else {
+        const weight = 1 / (1 + streakBias);
+        lowStreak.push({ index: i, weight });
+      }
     }
 
-    const totalWeight = weightedQuestions.reduce((sum, q) => sum + q.weight, 0);
+    // If only high streak questions exist → choose from them
+    if (lowStreak.length === 0) {
+      return highStreak[Math.floor(Math.random() * highStreak.length)];
+    }
 
-    let threshold = Math.random() * totalWeight;
+    // If only low streak questions exist → choose from them weighted
+    if (highStreak.length === 0) {
+      let totalWeight = lowStreak.reduce((sum, q) => sum + q.weight, 0);
+      let threshold = Math.random() * totalWeight;
 
-    for (let q of weightedQuestions) {
-      threshold -= q.weight;
-      if (threshold <= 0) {
-        return q.index;
+      for (let q of lowStreak) {
+        threshold -= q.weight;
+        if (threshold <= 0) {
+          return q.index;
+        }
+      }
+    }
+
+    // Mixed case: some high, some low
+    const roll = Math.random();
+
+    if (roll < HIGH_STREAK_PROB) {
+      // Pick uniformly from high streak
+      return highStreak[Math.floor(Math.random() * highStreak.length)];
+    } else {
+      // Weighted pick from low streak
+      const lowTotalWeight = lowStreak.reduce((sum, q) => sum + q.weight, 0);
+      let threshold =
+        ((roll - HIGH_STREAK_PROB) / (1 - HIGH_STREAK_PROB)) * lowTotalWeight;
+
+      for (let q of lowStreak) {
+        threshold -= q.weight;
+        if (threshold <= 0) {
+          return q.index;
+        }
       }
     }
 
@@ -160,8 +191,8 @@ export class QuizComponent implements OnInit {
     let newQuestion = this.getBiasedRandomQuestionId();
 
     // retry twice to not get the same question twice - ugly and stupid but why not.
-    if(newQuestion == this.currentQuestionIndex || this.streakMap.get(newQuestion)! > 2) newQuestion = this.getBiasedRandomQuestionId();
-    if(newQuestion == this.currentQuestionIndex) newQuestion = this.getBiasedRandomQuestionId();
+    if (newQuestion == this.currentQuestionIndex || this.streakMap.get(newQuestion)! > 2) newQuestion = this.getBiasedRandomQuestionId();
+    if (newQuestion == this.currentQuestionIndex) newQuestion = this.getBiasedRandomQuestionId();
 
     this.currentQuestionIndex = newQuestion;
     const randomQuestion = this.questions[this.currentQuestionIndex];
@@ -192,7 +223,7 @@ export class QuizComponent implements OnInit {
 
   checkAnswer(checked: any, id: number): void {
     const isChecked = checked.currentTarget.checked;
-    if(isChecked) {
+    if (isChecked) {
       this.checkedAnswers.add(id);
     } else {
       this.checkedAnswers.delete(id);
@@ -200,9 +231,8 @@ export class QuizComponent implements OnInit {
   }
 
   checkAnswerSc(checked: any, id: number): void {
-    console.log(checked);
     const isChecked = checked.currentTarget.checked;
-    if(isChecked) {
+    if (isChecked) {
       this.checkedAnswers = new Set<number>([id]);
     } else {
       this.checkedAnswers = new Set<number>();
@@ -215,5 +245,9 @@ export class QuizComponent implements OnInit {
 
   closeStreaks() {
     this.streaksPopup = false;
+  }
+
+  getStreakMapAmount() {
+    return `${this.streakMap.size} von ${this.questions.length} gesehen, ${Array.from(this.streakMap.values()).filter(v => v > 0).length} beim letzten mal richtig beantwortet, ${this.getLearnedQuestionsAmount()} gelernt`;
   }
 }

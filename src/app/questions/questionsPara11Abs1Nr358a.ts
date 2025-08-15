@@ -1125,9 +1125,9 @@ export const questionsPara11Abs1Nr358a: Question[] = [
   ]),
   q(`Wie lange dauert die Trächtigkeit einer Hündin?`, [
 
-    `Monate.`,
+    `2 Monate.`,
     `#60 bis 63 Tage.`,
-    `Monate.`,
+    `4 Monate.`,
     `Je nach Rasse zwischen drei Wochen und drei Monaten.`
   ]),
   q(`Kann eine Hündin schon bei der ersten Läufigkeit erfolgreich gedeckt werden?`, [

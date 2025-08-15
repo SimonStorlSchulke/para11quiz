@@ -666,9 +666,11 @@ export const para11abs1Nr8f: Question[] = [
     `Ein Hund darf nicht alleine im Zwinger gehalten werden. Es müssen mindestens zwei Hunde im Zwinger sein.`,
 
   ]),
-  q("Platzhalterfrage - einfach A ankreuzen", [
-    `#A (richtig)`,
-    `B`
+  q("Eine negative Belohnung findet statt wenn:", [
+    `Etwas Unangenehmes hinzugefügt wird.`,
+    `Etwas Angenehmes entfernt wird.`,
+    `#Etwas Unangenehmes entfernt wird.`,
+    `Etwas Angenehmes hinzugefügt wird`,
   ]),
   q("Welche der folgenden Personen gelten aus juristischer Sicht als Hundehalter?", [
 
@@ -1370,8 +1372,7 @@ export const para11abs1Nr8f: Question[] = [
     `#Wolf.`,
     `Kojote.`,
     `Schakal.`,
-    `Einige Rassen, wie z. B. der deutsche Schäferhund, stammen vom Wolf ab, einige`,
-    `Rassen, wie z. B. der deutsche Spitz, stammen vom Schakal ab.`,
+    `Einige Rassen, wie z. B. der deutsche Schäferhund, stammen vom Wolf ab, einige Rassen, wie z. B. der deutsche Spitz, stammen vom Schakal ab.`,
 
 
   ]),
@@ -1395,10 +1396,10 @@ export const para11abs1Nr8f: Question[] = [
   ]),
   q(`Was bedeutet der Begriff Übersprungshandlung?`, [
 
-    `☐ Das gezielte Überspringen mehrerer Stangen auf ein zuvor erfolgten Befehl des Hundeführers.`,
-    `☐ Das Aufreiten auf ein gleichgeschlechtliches Tier.`,
-    `☐ Das Aufreiten auf ein rangniedrigeres Tier.`,
-    `☐ Das Aufreiten auf ein ranghöheres Tier.`,
+    `Das gezielte Überspringen mehrerer Stangen auf ein zuvor erfolgten Befehl des Hundeführers.`,
+    `Das Aufreiten auf ein gleichgeschlechtliches Tier.`,
+    `Das Aufreiten auf ein rangniedrigeres Tier.`,
+    `Das Aufreiten auf ein ranghöheres Tier.`,
     `#Das plötzliche Auftreten von Verhaltensweisen in falschen Funktionskreisen infolge von Konfliktsituationen.`,
 
 
@@ -1664,7 +1665,8 @@ export const para11abs1Nr8f: Question[] = [
     `Die Vermeidung einer Problemsituation.`,
     `Man setzt den Hund der Problemsituation aus, führt ihn jedoch ganz langsam in sehr kleinen Schritten heran. Das erwünschte Verhalten wird dabei belohnt.`,
     `Es bedeutet auch, dass der Hund dabei ständig kontextspezifisch lernt, d.h. es ist eine Form der instrumentellen Konditionierung.`,
-    `Es bedeutet auch, dass der Hund dabei kontextspezifisch lernen kann, d.h. es ist eine Form der klassischen Konditionierung Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernen kann, d.h. es ist eine Form der instrumentellen Konditionierung.`,
+    `Es bedeutet auch, dass der Hund dabei kontextspezifisch lernen kann, d.h. es ist eine Form der klassischen Konditionierung`,
+    `Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernen kann, d.h. es ist eine Form der instrumentellen Konditionierung.`,
     `#Es bedeutet auch, dass der Hund dabei nicht kontextspezifisch lernt, d.h. es ist eine Form der klassischen Konditionierung.`,
     `Keine der hier angegebenen, möglichen Antworten trifft zu.`,
 
@@ -1848,7 +1850,7 @@ export const para11abs1Nr8f: Question[] = [
 
 
   ]),
-  q(`Welche der folgenden Hunderassen und deren Kreuzungen zählt nicht zu den in § 1 Abs. 2 genannten Kampfhunderassen in Baden-Württemberg?`, [
+  q(`Welche Hunderasse und deren Kreuzungen zählen nicht zu den in § 1 Abs. 2 genannten Kampfhunderassen in Baden-Württemberg?`, [
 
     `American Staffordshire Terrier.`,
     `Bullterrier.`,
@@ -2104,7 +2106,7 @@ export const para11abs1Nr8f: Question[] = [
 
 
   ]),
-  q(`Welche Voraussetzungen müssen für die Erteilung der Erlaubnis vorliegen?`, [
+  q(`Welche Voraussetzungen müssen für die Erteilung der Erlaubnis zur Haltung eines Kamphundes vorliegen?`, [
     `#Berechtigtes Interesse an der Haltung.`,
     `#Zuverlässigkeit und Sachkunde.`,
     `#Keine Gefahren für Leben, Gesundheit, Eigentum und Besitz.`,

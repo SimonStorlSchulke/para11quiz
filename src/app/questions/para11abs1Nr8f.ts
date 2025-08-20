@@ -674,9 +674,9 @@ export const para11abs1Nr8f: Question[] = [
   ]),
   q("Welche der folgenden Personen gelten aus juristischer Sicht als Hundehalter?", [
 
-    `#Eine Person, die aus eigenem Interesse, nicht nur vorübergehend, für die Kosten des Hundes aufkommt.`,
-    `#Eine Person, die einen zugelaufenen Hund nicht binnen einer Frist von zwei Wochen beim Tierheim abgibt.`,
-    `Bei Ehepaaren ist derjenige von beiden Hundehalter, dem der Hund am besten gehorcht.`,
+    `#Eine Person, welche die Sachherrschaft über das Tier nicht nur vorübergehend übernimmt. `,
+    `#Eine Person, die einen zugelaufenen Hund findet, wird binnen einer Frist von 6 Monaten vom Tierfinder zum Tierhalter.`,
+    `Bei Ehepaaren ist derjenige von beiden Hundehalter, dem der Hund am besten gehorcht. `,
     `Bei Ehepaaren ist derjenige von beiden Hundehalter, der den Hund regelmäßig füttert.`,
 
   ]),
@@ -1211,8 +1211,8 @@ export const para11abs1Nr8f: Question[] = [
     `Eine Missbildung des Ellbogengelenks, die vor allem beim Collie erblich bedingt vorkommt.`,
     `#Eine Erkrankung des Ellbogengelenks, die in den meisten Fällen schon in der Wachstumsphase beim jugendlichen Hund auftritt.`,
     `Eine tumoröse Veränderung des Ellbogengelenks.`,
-    ]),
-    q(`Bis zu welchem Alter gilt ein Hund als Welpe? `, [
+  ]),
+  q(`Bis zu welchem Alter gilt ein Hund als Welpe? `, [
     `Bis zu einem Alter von bis zu 10 Wochen.`,
     `Bis zu einem Alter von bis zu 1 Jahr.`,
     `#Bis zu einem Alter von bis zu 20 Wochen.`,
@@ -1251,9 +1251,9 @@ export const para11abs1Nr8f: Question[] = [
     `#Charles Darwin.`,
     `Graf v. Buffon.`,
     `Johann Anton Güldenstedt.`,
-    ]),
+  ]),
 
-    q(`Was bezeichnet man als Rudel?`, [
+  q(`Was bezeichnet man als Rudel?`, [
     `Eine vom Menschen zusammengestellte Gruppe von Hunden.`,
     `Eine Gruppe von mindesten 6 Hunden, die in einer Hundepension zusammenlebt.`,
     `Eine Gruppe von ausschließlich weiblichen Hunden.`,
@@ -1275,8 +1275,8 @@ export const para11abs1Nr8f: Question[] = [
     `Die genetisch und durch die Umwelt beeinflusste Jugendentwicklung eines Individuums bis zu einem Tod.`,
     `Die Stammesgeschichte der Art, zu der das Individuum zählt.`,
     `Die genetisch ununterbrochene Entwicklung der Art von den Anfängen bis heute.`,
-    ]),
-    q(`Was sollte in den ersten zwei Lebenswochen der Welpen beachtet werden?`, [
+  ]),
+  q(`Was sollte in den ersten zwei Lebenswochen der Welpen beachtet werden?`, [
     `Die Welpen müssen in dieser Zeit mit der Mutterhündin noch völlig in Ruhe gelassen werden.`,
     `#Alltagssituationen und adäquater Stress beeinflussen die Entwicklung der Welpen in der Regel positiv.`,
     `Die Welpen sollten in dieser Zeit so intensiv wie möglich auch von fremden Personen angefasst und länger gestreichelt werden, da dies wichtig für die Sozialisation ist.`,
@@ -1308,13 +1308,13 @@ export const para11abs1Nr8f: Question[] = [
     `#14`,
     `2`,
     `10`,
-    ]),
-    q(`Welche der hier aufgeführten Bastardisierungen treten in freier Wildbahn nicht spontan auf?`, [
+  ]),
+  q(`Welche der hier aufgeführten Bastardisierungen treten in freier Wildbahn nicht spontan auf?`, [
     `Wolf und Kojote.`,
     `Kojote und Hund.`,
     `#Pariahund und Schakal.`,
     `Wolf und Hund.`,
-    ]),
+  ]),
   q(`Eine Familie mit drei Kindern möchte sich einen Welpen anschaffen. Was sollte die Familie am besten beachten? `, [
 
     `Einen Hund einer auf jeden Fall kinderlieben Hunderasse zu kaufen, z. B. einen Golden Retriever.`,
@@ -1515,8 +1515,8 @@ export const para11abs1Nr8f: Question[] = [
     `Ich rate, neues Spielzeug zu kaufen und nur noch im gemeinsamen Spiel zu verwenden.`,
     `Ich erkläre, wie man dem Hund mit Futter das Hörzeichen "Sitz" beibringt.`,
     `Ich empfehle, den Hund nur noch aus der Hand zu füttern, damit er seine Angst bei Annäherung verliert.`,
-    ]),
-    q(`Ein Hund wird von seinem Besitzer gerufen, woraufhin sich der Hund, anders als sonst, in demütiger Körperhaltung nähert. Wie sollte sich der Besitzer zuerst verhalten? `, [
+  ]),
+  q(`Ein Hund wird von seinem Besitzer gerufen, woraufhin sich der Hund, anders als sonst, in demütiger Körperhaltung nähert. Wie sollte sich der Besitzer zuerst verhalten? `, [
     `Er schickt ihn in seinen Korb, er hat bestimmt etwas angestellt.`,
     `#Er sollte ihn nicht bedrohen.`,
     `Er beruhigt ihn.`,
@@ -1624,8 +1624,8 @@ export const para11abs1Nr8f: Question[] = [
     `Hör- und Sichtzeichen, die der Hund lernen soll, sollten am besten immer nur von einer für das Tier ranghöheren Person (eben einem General) gegeben werden.`,
     `Die Art dem Hund Hör- und Sichtzeichen zu geben, sollte allgemein immer die gleiche sein, auch wenn verschiedene Personen sich gleichzeitig an der Ausbildung des Tieres beteiligen.`,
     `#Da Hunde in der Regel sehr kontextspezifisch lernen, sollten Hör- und Sichtzeichen zu verschiedenen Tageszeiten, an verschiedenen Orten und damit in verschiedenen Situationen geübt werden.`,
-    ]),
-    q(`Welche der folgenden Behauptungen ist richtig? `, [
+  ]),
+  q(`Welche der folgenden Behauptungen ist richtig? `, [
     `#Die Instrumentelle Konditionierung ist kontextspezifisch.`,
     `Die Instrumentelle Konditionierung ist nicht kontextspezifisch.`,
     `Die Instrumentelle Konditionierung ist das Therapieverfahren der Gegenkonditionierung in der Verhaltenstherapie.`,
@@ -1962,8 +1962,8 @@ export const para11abs1Nr8f: Question[] = [
     `Steuermarke am Halsband.`,
     `Warnweste mit Kennzeichnung.`,
     `Keine besondere Kennzeichnung.`,
-    ]),
-    q(`Wann gilt eine Leinenpflicht für Hunde in Baden-Württemberg?`, [
+  ]),
+  q(`Wann gilt eine Leinenpflicht für Hunde in Baden-Württemberg?`, [
     `#Wenn die Gemeinde eine vorschreibt.`,
     `Immer in der Innenstadt.`,
     `Zur Brut- und Setzzeit.`,
@@ -2004,7 +2004,7 @@ export const para11abs1Nr8f: Question[] = [
 
 
   ]),
-  q(`Welcher Mindestanteil der Bodenfläche muss bei Räumen als Tageslichtöffnung vorhanden sein?`, [
+  q(`Welcher Mindestanteil der Bodenfläche muss bei Räumen, die nach ihrer Zweckbestimmung nicht dem Aufenthalt von Menschen dienen, als Tageslichtöffnung vorhanden sein, damit darin ein Hund gehalten werden darf?`, [
 
     `1/4.`,
     `#1/8.`,
@@ -2194,5 +2194,512 @@ export const para11abs1Nr8f: Question[] = [
     `#Hunden muss regelmäßiger Kontakt zu Artgenossen möglich sein, es sei denn, dies ist aus gesundheitlichen Gründen oder aus Gründen der Unverträglichkeit zum Schutz des Hundes oder seiner Artgenossen nicht möglich.`,
     `#Hunde sollten mehrmals täglich den Umgang mit dem Hundehaltenden oder der Betreuungsperson pflegen.`,
     `Hunde müssen mindestens 1x am Tag und für insgesamt mindestens 3 Stunden rauskommen.`,
+  ]),
+  q(`Welche Milbenarten gibt es?`, [
+
+    `#Demodexmilben.`,
+    `#Sarkoptesmilben.`,
+    `#Herbstgrasmilben.`,
+    `#Laufmilben.`,
+    `#Ohrmilben.`,
+    `Nasenmilben.`,
+    `Canidaemilben.`,
+
+
+  ]),
+  q(`Welcher Parasit gehört zu den Rundwürmern?`, [
+
+    `#Spulwurm.`,
+    `#Hakenwurm.`,
+    `#Peitschenwurm.`,
+    `#Lungenwurm.`,
+    `#Herzwurm.`,
+    `Fuchsbandwurm.`,
+    `Gurkenkernbandwurm.`,
+    `Ohrwurm.`,
+
+
+  ]),
+  q(`Welcher Parasit gehört zu den Bandwürmern?`, [
+
+    `Spulwurm.`,
+    `Hakenwurm.`,
+    `Peitschenwurm.`,
+    `Lungenwurm.`,
+    `Herzwurm.`,
+    `#Fuchsbandwurm.`,
+    `#Gurkenkernbandwurm.`,
+    `#Hundebandwurm.`,
+    `Traubenbandwurm.`,
+
+
+  ]),
+  q(`Welche Kranheitserreger gehören zu den Einzellern?`, [
+
+    `#Babesien.`,
+    `#Kokzidien.`,
+    `#Toxoplasmen.`,
+    `#Giardien.`,
+    `#Leishmanien.`,
+    `#Hepatozoon canis.`,
+    `Borrelien.`,
+    `Anaplasmen.`,
+    `Salmonellen.`,
+
+
+  ]),
+  q(`Was gehört zu den bekannten Mittelmeerkrankheiten?`, [
+
+    `#Leishmaniose, Überträger sind Sandmücken.`,
+    `#Hepatozoonose, Überträger sind Zecke und Mücke.`,
+    `#Babesiose, Überträger sind Zecken.`,
+    `#Ehrlichiose, Überträger sind Zecken.`,
+    `#Dirofilariose, Überträger sind Stechmücken.`,
+    `Kokzidiose, Überträger sind Flöhe.`,
+    `Ehrlichiose, Übertragung über verunreinigtes Wasser.`,
+    `Dirofilariose, Übertragung über Mäusekot.`,
+    `Malassezia, Übertragung über Hundespeichel.`,
+
+
+  ]),
+  q(`Was gehört zu den viralen Infektionskrankheiten?`, [
+
+    `#Staupe.`,
+    `#Parainfluenza/ Zwingerhusten.`,
+    `#Hepatitis contagiosa canis/ H.C.C..`,
+    `#Parvovirose.`,
+    `#Tollwut.`,
+    `#Aujeskysche Krankheit.`,
+    `#Frühsommer-Meningoenzephalitis/ FSME.`,
+    `Leishmaniose.`,
+    `Hundemalaria.`,
+    `Leptospirose.`,
+    `Tetanus.`,
+
+
+  ]),
+  q(`Welche Infektionskrankheiten gelten laut StIko Vet als Non-core-Impfung?`, [
+
+    `#Parainfluenza/ Zwingerhusten.`,
+    `#Hepatitis contagiosa canis/ H.C.C..`,
+    `#Tollwut.`,
+    `Aujeskysche Krankheit.`,
+    `Staupe.`,
+    `FSME.`,
+
+
+  ]),
+  q(`Welche Infektionskrankheiten gelten laut StIko Vet als Core-Impfung?`, [
+
+    `Parainfluenza/ Zwingerhusten.`,
+    `Hepatitis contagiosa canis/ H.C.C..`,
+    `Tollwut.`,
+    `Aujeskysche Krankheit.`,
+    `#Staupe.`,
+    `FSME.`,
+    `#Parvovirose.`,
+    `#Leptospirose.`,
+
+
+  ]),
+  q(`Was gehört zu den bakteriellen Infektionskrankheiten?`, [
+
+    `#Leptospirose.`,
+    `#Salmonellose.`,
+    `#Tetanus.`,
+    `#Borreliose.`,
+    `#Ehrlichiose.`,
+    `#Anaplasmose.`,
+    `FSME.`,
+    `Tollwut.`,
+    `Parainfluenza.`,
+
+
+  ]),
+  q(`Welche Pilz Infektionskrankheiten gibt es?`, [
+
+    `#Mikrosporie.`,
+    `#Trichophytie.`,
+    `#Malassezia.`,
+    `Agaricaceae.`,
+    `Fungizid.`,
+
+
+  ]),
+  q(`Welche Phasen gehören zum Läufigkeitszyklus der Hündin?`, [
+
+    `#Anöstrus.`,
+    `#Proöstrus.`,
+    `#Östrus.`,
+    `#Metöstrus.`,
+    `Conöstrus.`,
+    `Preöstrus.`,
+
+
+  ]),
+  q(`Wann ist die Hündin nicht empfängnisbreit?`, [
+
+    `#Anöstrus.`,
+    `#Proöstrus.`,
+    `Östrus.`,
+    `#Metöstrus.`,
+
+
+  ]),
+  q(`Welche Aussagen treffen über Kommunikation zu?`, [
+
+    `#Kommunikation ist eine wechselseitige Form der Informationsübertragung mittels Sender und Empfänger.`,
+    `#Der Sender muss in der Lage sein Information zu entschlüsseln.`,
+    `#Kommunikation ist nicht zufällig.`,
+    `Kommunikation ist eine Verhaltensweise, die eine beobachtbare Verhaltensmodifikation beim Adressaten bewirkt.`,
+
+
+  ]),
+  q(`Welche treffen über Interaktion zu?`, [
+
+    `Kommunikation ist eine wechselseitige Form der Informationsübertragung mittels Sender und Empfänger.`,
+    `#Interaktion ist nicht zufällig.`,
+    `#Interaktion ist eine Verhaltensweise, die eine beobachtbare Verhaltensmodifikation beim Adressaten bewirkt.`,
+    `Interaktion ist zufällig.`,
+  ]),
+  q(`Was bedeutet RHP?`, [
+    `#Ressource Holding Potential.`,
+    `#Als Ressource gilt alles was für den Erhalt und die Steigerung der individuellen Fitness erforderlich ist.`,
+    `Reaction Helping Potential.`,
+    `Alle Verhaltensreaktionen, die zum Erhalt und der Steigerung der individuellen Fitness hilfreich sind.`,
+  ]),
+  q(`Welche Rangordnungsmodelle gibt es?`, [
+    `#Dreiecksbeziehung (Zirkulare Rangordnung).`,
+    `#Pyramidale Form (Transitive Rangordnung).`,
+    `#Lineare Form (Transitive Rangordnung).`,
+    `Rudelstellung (Kongenitale Rangordnung).`,
+    `Hierarchischebeziehung (Lineare Rangordnung).`,
+  ]),
+  q(`Welche Lebensphasen durchläuft ein Hund?`, [
+    `#Pränatale Phase.`,
+    `#Neonatale/ Vegetative Phase.`,
+    `#Transizionale Phase/ Übergangsphase.`,
+    `#Sozialisierungsphase.`,
+    `#Juvenile Phase.`,
+    `#Adoleszenzphase/ Reifephase.`,
+    `#Adulte Phase.`,
+    `#Senile Phase.`,
+    `Rüpelphase.`,
+    `Generalisierungsphase.`,
+    `Prägephase.`,
+    `Geriatrische Phase/ Endphase.`,
+  ]),
+  q(`Was trifft über die Übergangsphase der ontogenetischen Entwicklung des Hundes zu?`, [
+    `#ab 15. - 21. Lebenstag.`,
+    `Von Geburt - 14. Lebenstag.`,
+    `ab 3. - 18. Lebenswoche.`,
+    `Hunde werden in dieser Zeit geschlechtsreif.`,
+    `#In dieser Zeit öffnen sich die Augen und Gehörgänge, die Milchzähne brechen durch und die Welpen beginnen, ihre Umwelt aktiv wahrzunehmen und auf Reize zu reagieren. `,
+    `Welpen beginnen mit dem Suchpendeln, um Kontakt zur Mutterhündin aufzunehmen.`,
+  ]),
+  q(`Was trifft über die Übergangsphase der juvenilen Entwicklung des Hundes zu?`, [
+    `#ab 4. Monat bis Eintritt Geschlechtsreife.`,
+    `ab 1,5 - 3,5 Jahren.`,
+    `#Rüden heben in dieser Zeit zum ersten Mal das Bein zum Markieren.`,
+    `#Der Hund erreicht etwa zwei Drittel seiner Erwachsenengröße.`,
+    `Finale körperliche und geistige Reifung.`,
+  ]),
+  q(`Was ist die Deprivation?`, [
+    `#Ein Zustand, des Mangels und der Unterversorgung. `,
+    `#Ein Zustand, der mangelhaften Sozialisation und Habituation durch zB. Isolierung, Entzug sozialer Zuwendung.`,
+    `#Ein Zustand, der besonders gravierende Auswirkungen in den frühen Entwicklungsphasen des Hundes haben kann.`,
+    `Ein Zustand des Wohlbefindens, Geborgenheit und Liebe.`,
+    `Ein Zustand, den jeder junge Hund in seinem Leben durchlebt und welcher wichtig ist, für die gesunde Entwicklung.`,
+    `Ein Zustand, den man nur unter im Tierheim aufgwachsenen Hunden kennt.`,
+  ]),
+  q(`Welche Aussagen treffen beim Deprivationssyndrom /Hospitalismus zu?`, [
+    `#Körperliche sowie psychische Symptome, die durch anhaltende Deprivation und dessen Folgeschäden verursacht werden.`,
+    `#Folgeschäden sind je nach Grad irreversibel.`,
+    `#Betroffen ist das dopaminerge System im Gehirn.`,
+    `Betroffen ist das serotinerge System im Gehirn.`,
+  ]),
+  q(`Welche Symptome könnten bei einem deprivierten Hund auftreten?`, [
+    `#Ängstlich-nervöses Verhalten`,
+    `#gestörte Angstkontrolle`,
+    `#gestörte Frustrationskontrolle`,
+    `#übermäßiges Aggressionsverhalten`,
+    `#Zwangsverhalten`,
+    `#Hyperaktivität`,
+    `#Hypervigilanz`,
+    `#Hypersexualität`,
+    `#gestörtes Lernverhalten`,
+    `#Trennungsstress`,
+    `#Angststörung`,
+  ]),
+  q(`Ein Hund, der Angst empfindet,...`, [
+    `#zeigt angeborene innere wie äußere Stressreaktionen auf eine ungerichtete Bedrohung/Gefahr.`,
+    `#kann die Bedrohung/Gefahr nicht abwenden.`,
+    `#verfügt über keine adäquate Verhaltensprogramme, um die Angst zu überwinden.`,
+    `#zeigt Stressreaktionen auf unvorhersehbare und unbewusste Auslöser, die abstrakt und diffus wirken.`,
+    `assoziert die Situation mit einer zuvor erlebten negativen Situation.`,
+    `verfügt über erlernte Reaktionen zur Gefahrenabwendung.`,
+  ]),
+  q(`Ein Hund, der Furcht empfindet,...`, [
+    `#sieht sich einer realen Bedrohung/Gefahr gegenüber.`,
+    `verfügt über keine adäquate Verhaltensprogramme, um die Furcht zu überwinden.`,
+    `#zeigt Stressreaktionen auf vorhersehbare und bewusste Auslöser, die konkret und gegenwärtig sind.`,
+    `#assoziert die Situation mit einer zuvor erlebten negativen Situation.`,
+    `#verfügt über erlernte Reaktionen zur Gefahrenabwendung.`,
+    `zeigt Stressreaktionen auf unvorhersehbare und unbewusste Auslöser, die abstrakt und diffus wirken.`,
+  ]),
+  q(`Was gehört zu den Angststörungen?`, [
+
+    `#Phobien.`,
+    `#Panikstörung.`,
+    `#Generalisierte Angststörung.`,
+    `Lokale Angststörung.`,
+  ]),
+  q(`Welche Aussagen treffen zu?`, [
+    `#Eine Phobie ist eine übersteigerte irrationale Angst vor definierten, objektiv betrachtet, ungefährlichen Objekten oder Situationen.`,
+    `#Eine Panikstörung, ist eine spontan auftretende (körperliche) Angstattacke, ohne spezifischen realen Angstauslöser.`,
+    `#Die generalisierte Angststörung ist eine diffuse Angst im Alltag mit Anspannung, Besorgnis und Befürchtung über einen Zeitraum von mindestens 6 Monaten.`,
+    `Eine Phobie ist eine berechtigte rationale Angst vor definierten, gefährlichen Objekten oder Situationen.`,
+    `Eine Panikstörung, ist eine bewusst auftretende (körperliche) Angstattacke, aufgrund eines spezifisch realen Angstauslösers.`,
+    `Die generalisierte Angststörung ist eine diffuse Angst im Alltag mit Anspannung, Besorgnis und Befürchtung über einen zeitlich begrenzten kurzweiligen Zeitraum.`,
+  ]),
+  q(`Welche Neurotransmitter spielen bei der Informationsübertragung eine wichtige Rolle?`, [
+    `#Dopamin.`,
+    `#GABA.`,
+    `#Noradrenalion.`,
+    `#Serotonin.`,
+    `Prolaktin`,
+    `Östrogen.`,
+    `Testosteron.`,
+  ]),
+  q(`Welche Aussagen treffen zu?`, [
+
+    `#Eine psychische Störung entstehet durch Störungen der Regulationsmechanismen zwischen den Überträgersystemen.`,
+    `#Abnormal-repetitives Verhalten (ARV) sind Verhaltensweisen, die unangemessen wiederholt auftreten und invariabel im Ablauf und/oder in ihrer Orientierung sind. Z.B. Stereotypien und Zwangsstörungen.`,
+    `Hunde können keine psychischen Störungen haben.`,
+    `Abnormal-repetitives Verhalten (ARV) entsteht nur bei besonders aktiv gezüchteteten Arbeitsrassen wie dem Border Collie.`,
+  ]),
+  q(`Was sind Merkmale einer Stereotypie?`, [
+    `#Repetitive unveränderliche Verhaltensmuster ohne erkennbares Ziel oder erkennbare Funktion.`,
+    `#Ritualisierte Grundform, die sich wiederholt z. B. Bewegungsstereotypien (motorische Reaktionen), Lautäußerungen (repetitives Bellen)`,
+    `#Je schwerer die Stereotypie, desto schwerer davon ablenkbar.`,
+    `#Eine angeborene Hirnfunktionsstörung oder stressbedingte klinische Erkrankung.`,
+    `#Störung in Basalganglien im Gehirn (für neurologische Verarbeitung motorischer Reaktionen zuständig)`,
+    `#Dopaminerg.`,
+    `Störung im präfrontalen Cortex.`,
+    `Serotinerg.`,
+    `Ritualisiert, jedoch in der Ausführung (z.B. Geschwindigkeit) variabel.`,
+  ]),
+  q(`Was sind Merkmale einer Zwangsstörung?`, [
+    `#Eine übertrieben wiederholte, zielgerichtete und beabsichtigte Verhaltensweise z.B. Nuckel-, Leck- oder Saugzwangsverhalten, Flankennuckeln.`,
+    `#Ritualisiert, jedoch in der Ausführung (z.B. Geschwindigkeit) variabel.`,
+    `#Störung im präfrontalen Cortex.`,
+    `#Serotinerg.`,
+    `Störung in Basalganglien im Gehirn (für neurologische Verarbeitung motorischer Reaktionen zuständig)`,
+    `Dopaminerg.`,
+    `Repetitive unveränderliche Verhaltensmuster ohne erkennbares Ziel oder erkennbare Funktion.`,
+  ]),
+  q(`Welche Aussagen treffen über das Lernen zu?`, [
+    `#Die biologische preparedness, ist die Bereitschaft lebensnotwendige Verknüpfungen schneller herstellen zu können als unwichtige Verknüpfungen. `,
+    `#Stammesgeschichtlich sind bestimmte Reiz-Reaktions-Kombinationen begünstigt weshalb es sich bei der klassischen Konditionierung anbietet, den konditionierten Reiz passend zum unkonditionierten Reiz zu wählen.`,
+    `#Beim Lernen über Assoziation werden zwei Ereignisse, die gleichzeitig oder kurz nacheinander geschehen, im Gehirn in Verbindung gebracht.`,
+    `#Konditionierung erfolgt, wenn eine Assoziation regelmäßig und häufig stattfindet.`,
+  ]),
+  q(`Welche Probleme könnten beim Hundetraining auftauschen?`, [
+    `#Wenn Kommandos zu oft oder erfolglos genutzt werden, werden diese für den Hund wieder bedeutungslos.`,
+    `#Bei einer Überschattung kann es passieren, dass Hörzeichen nicht mehr wahrgenommen werden, da Sichtzeichen ablenken und die Konzentration einfordern.`,
+    `Ein Tierschutzhund aus Griechenland kann nur griechische Hörzeichen lernen.`,
+    `Hunde lernen allgemein besser über verbalisierte Hörzeichen als über Sichtzeichen, deswegen kann man diese auch weglassen.`,
+  ]),
+  q(`Was passiert während der 1. Konditionierungsphase, der Kontrolle?`, [
+    `#UCS -> UCR, NS -> OR`,
+    `#Ein unkonditionierter Stimulus löst eine unkonditionierte reflexartige Reaktion aus. Ein neutraler Stimulus löst eine Orientierungsreaktion aus, die nicht der unkonditionierten reflexartigen Reaktion entspricht.`,
+    `Ein unkonditionierter Stimulus löst eine unkonditionierte reflexartige Reaktion aus. Ein neutraler Stimulus löst die selbe unkonditionierte reflexartige Reaktion aus.  `,
+    `UCS -> UCR, NS -> UCR`,
+  ]),
+  q(`Was passiert während der 2. Konditionierungsphase, der Lernphase und dem Ergebnis?`, [
+    `#NS/UCS -> UCR, CS -> CR`,
+    `#Ein neutraler Stimulus wird zeitlich kontigent mit dem unkonditionierten Stimulus, welcher die unkonditionierte reflexartige Reaktion auslöst, dargeboten. Es findet eine Reizsubstitution von neutralen und unkonditionierten Stimulus statt. Der vormals neutrale Stimulus wird zum konditionierten Stimulus, der eine konditionierte Reaktion auslöst.`,
+    `Ein neutraler Stimulus wird zeitlich versetzt mit dem unkonditionierten Stimulus, welcher die unkonditionierte reflexartige Reaktion auslöst, dargeboten. Der neutrale Stimulus löst nun eine konditionierte Reaktion aus.`,
+    `NS -> UCS -> UCR, NS -> CR.`,
+  ]),
+  q(`Was passiert während der 3. Konditionierungsphase, der Extinktion?`, [
+    `#CS -> CR, CS -> UCR`,
+    `#Der konditionierte Stimulus löst die konditionierte Reaktion aus. Die konditionierte Reaktion ist schwächer als die unkonditionierte Reaktion, deshalb wird nach mehrmaligen Wiederholen die konditionierte Reaktion schwächer bis sie verschwindet.`,
+    `Der konditionierte Stimulus löst die konditionierte Reaktion aus. Der konditionierte Stimulus ist schwächer als der neutrale Stimulus, deshalb wird nach mehrmaligen Wiederholen auch wieder die Orientierungsreaktion gezeigt wird.`,
+    `CS -> CR, NS -> OR`,
+  ]),
+  q(`Welche Aussagen treffen zu?`, [
+
+    `#Fakultatives Lernen ist eine Form des Lernens, die nicht lebensnotwendig für ein Tier ist, aber dennoch Vorteile bringen kann.`,
+    `#Obligatorisches Lernen ist eine Form des Lernens, die lebensnotwendig für ein Tier ist.`,
+    `#Hunde lernen bewusst.`,
+    `#Hunde lernen unbewusst.`,
+  ]),
+  q(`Bewusstes Lernen ist...`, [
+    `#Ein aktiver Prozess und erfordert die Beteiligung, Motivation und Interesse des Lernenden.`,
+    `#Ein situativer Prozess und erfolgt stets kontextspezifisch.`,
+    `#Ein sozialer Prozess und umfasst auch soziale Komponente.`,
+    `Ein passiver Prozess und erfordert nur einen guten Hundetrainer.`,
+  ]),
+  q(`Welche Art von Stress gibt es?`, [
+    `#Aktiver/akuter Stress.`,
+    `#Chronischer Stress.`,
+    `Passiver Stress.`,
+    `Intermediärer Stress.`,
+  ]),
+  q(`Welchen Aussagen treffen zu?`, [
+    `#Bei akutem Stress ist überweiegend das Sympathikus-Nebennierenmark-System unter der Beteiligung von Noradrenalin und Adrenalin aktiv.`,
+    `#Bei chronischem Stress ist sind Sympathikus-Nebennierenmark-System unter der Beteiligung von Noradrenalin und Adrenalin sowie das Hypothalamus-Hypophysen-Nebennierenrinden-Achse System unter der Beteiligung von Cortisol und Corticosteron aktiv.`,
+    `Bei chronischem Stress ist das Hypothalamus-Hypophysen-Nebennierenrinden-Achse System unter der Beteiligung von Cortisol und Corticosteron aktiv.`,
+    `#Chronischer Stress kann zu langfristigen psychischen und physischen Erkrankungen, wie der Beeinträchtigung der kognitiven Lernfähigkeit, führen.`,
+    `Nach akutem Stress gibt es keine anschließende Erholungsphase.`,
+    `#Nach akutem Stress gibt es eine anschließende Erholungsphase.`,
+    `#Distress wird vom Körper negativ erlebt.`,
+    `#Eustress wird vom Körper positiv erlebt.`,
+    `Distress wird vom Körper positiv erlebt.`,
+    `Eustress wird vom Körper negativ erlebt.`,
+  ]),
+  q(`Welche Systeme werden vom Körper zur Stressregulation genutzt?`, [
+    `#Sympathikus-Nebennierenmark-System, Noradrenalin und Adrenalin.`,
+    `#Hypothalamus-Hypophysen-Nebennierenrinden-Achse, Cortisol und Corticosteron.`,
+    `Parasympathikus, Acetylcholin`,
+  ]),
+  q(`Welche Parasiten spielen bei einer von Stechmücken übertragenen Dirofilariose eine Rolle?`, [
+
+    `#Herzwürmer.`,
+    `Zecke.`,
+    `Haarlinge.`,
+    `Hundebandwurm.`,
+  ]),
+  q(`Was ist eine Parasitose?`, [
+
+    `#Eine Erkrankung, die durch Parasiten hervorgerufen wird.`,
+    `Eine durch Paranoia verursachte psychische Störung.`,
+    `Ein genetischer Deffekt des Parasymphatischen Nervensystems.`,
+  ]),
+  q(`Wie nennt man die Läufigkeitsphase Anöstrus noch?`, [
+    `#Ruhephase.`,
+    `Vorbrunst.`,
+    `Brunst.`,
+    `Nachbrunst.`,
+  ]),
+  q(`Ein welcher Reihenfolge durchläuft eine gesunde Hündin den Läufigkeitszyklus?`, [
+
+    `#Anöstrus, Proöstrus, Östrus, Metöstrus.`,
+    `Anöstrus, Östrus, Proöstrus, Metöstrus.`,
+    `Anöstrus, Östrus, Metöstrus, Proöstrus.`,
+    `Anöstrus, Östrus, Metöstrus, Proöstrus.`,
+  ]),
+  q(`Wie lange dauert die Läufigkeitsphase Metöstrus durchschnittlich an?`, [
+
+    `9 Tage.`,
+    `6 Monate.`,
+    `#60 Tage.`,
+  ]),
+  q(`Was passiert während der 3. Konditionierungsphase, der Spontanerholung/ fakultativen Phase?`, [
+    `#Nach einer Pause wird der konditionierte Stimulus erneut dargeboten und die zuvor gelöschte Reaktion tritt kurzzeitig auf und verblast dann wieder. `,
+    `Nach einer Pause kann der konditionierte Stimulus erneut dargeboten werden und die gelöschte Reaktion tritt wieder auf und ist wieder erlernt.`,
+  ]),
+  q(`Wann kann ein Hundesitter als Tierhalter im Sinne des § 833 BGB angesehen werden?`, [
+    `Wenn er einmal für eine Stunde auf den Hund aufpasst.`,
+    `#Wenn er regelmäßig die Aufsicht über das Tier übernimmt.`,
+    `Nur, wenn ein schriftlicher Vertrag abgeschlossen wurde.`,
+    `Nie, Hundehalterhaftung trifft ausschließlich den Eigentümer.`,
+  ]),
+  q(`Welche Voraussetzung muss für die Tieraufseher-Haftung nach § 834 BGB erfüllt sein?`, [
+    `Die Aufsicht über das Tier wird freiwillig übernommen.`,
+    `#Es besteht ein vertraglicher Auftrag zur Übernahme der Tieraufsicht.`,
+    `Der Tieraufseher muss das Eigentum am Tier haben.`,
+    `Der Tieraufseher haftet nur für Sachschäden.`,
+  ]),
+  q(`Welche Möglichkeit hat ein Tierhalter von der Haftung nach § 833 Satz 2 Gebrauch zu machen?`, [
+    `Er kann den Schaden ignorieren.`,
+    `#Er kann sich exkulpieren, indem er die im Verkehr erforderliche Sorgfalt nachweist.`,
+    `Er kann den Tieraufseher anklagen.`,
+    `Es gibt keine Möglichkeit der Haftungsbefreiung.`,
+  ]),
+  q(`Welche Haftung besteht, wenn ein Tieraufseher die im Verkehr erforderliche Sorgfalt beachtet und trotzdem ein Schaden entsteht?`, [
+    `#Keine Haftung.`,
+    `Haftung vollumfänglich.`,
+    `Teilweise Haftung nach Ermessen des Gerichts.`,
+    `Haftung nur gegenüber dem Tierhalter.`,
+  ]),
+  q(`Wie wird die „Gefährdungshaftung“ im Zusammenhang mit § 833 BGB definiert?`, [
+    `Haftung nur bei vorsätzlichem Verhalten.`,
+    `#Haftung unabhängig vom Verschulden aufgrund der spezifischen Tiergefahr.`,
+    `Haftung nur bei grober Fahrlässigkeit.`,
+    `Haftung nur für Sachschäden.`,
+  ]),
+  q(`Wann kann die Tieraufseher-Haftung nicht vom Tierhalter entbunden werden?`, [
+    `Wenn der Tieraufseher die Aufsicht freiwillig übernimmt.`,
+    `#Wenn der Tieraufseher die vertragliche Aufsichtspflicht verletzt.`,
+    `Wenn der Tieraufseher das Tier nur kurzzeitig betreut.`,
+    `Wenn das Tier ein Kleintier ist.`,
+  ]),
+  q(`Welche Art von Schäden deckt eine Tierhalter-Haftpflichtversicherung typischerweise ab?`, [
+    `Nur Sachschäden.`,
+    `Nur Personenschäden.`,
+    `#Sowohl Personen-, Sach- als auch Vermögensschäden, die durch das Tier verursacht werden.`,
+    `Nur Schäden an anderen Tieren.`,
+  ]),
+  q(`Warum sind Kleintiere wie Kaninchen, Vögel oder Katzen oft durch die Privathaftpflicht versichert, Hunde und Pferde jedoch nicht?`, [
+    `Kleintiere verursachen keine Schäden.`,
+    `#Schäden durch Hunde und Pferde können sehr hoch sein und unterliegen besonderen Haftungsregelungen.`,
+    `Hunde und Pferde sind Nutztiere.`,
+    `Hunde und Pferde dürfen nicht privat gehalten werden.`,
+  ]),
+  q(`Welche Bundesländer führen eine Liste von „gefährlichen Hunden“ mit namentlicher Nennung bestimmter Rassen?`, [
+    `Alle Bundesländer.`,
+    `#Baden-Württemberg, Bayern, Brandenburg, Bremen, Hessen, Mecklenburg-Vorpommern, Nordrhein-Westfalen, Rheinland-Pfalz.`,
+    `Berlin, Hamburg, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen.`,
+    `Nur Bayern und Baden-Württemberg.`,
+  ]),
+  q(`Wie verhält es sich mit der Haftung, wenn ein Tier vorübergehend „ausgelagert“ wird, z. B. in eine Urlaubsbetreuung?`, [
+    `Die Haltereigenschaft entfällt sofort.`,
+    `#Die Haltereigenschaft bleibt bestehen, nur kurzfristige Unterbrechungen ändern nichts.`,
+    `Der Tieraufseher wird automatisch Tierhalter.`,
+    `Der Eigentümer haftet nicht mehr.`,
+  ]),
+  q(`In welchen Bundesländern ist die Tierhalter-Haftpflichtversicherung für alle Hunde verbindlich vorgeschrieben?`, [
+    `Bayern, Hessen, Sachsen.`,
+    `#Berlin, Hamburg, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen.`,
+    `Nordrhein-Westfalen, Rheinland-Pfalz, Baden-Württemberg.`,
+    `Alle Bundesländer.`,
+  ]),
+  q(`Welche Haftung greift bei der Tieraufseher-Haftung nach § 834 BGB?`, [
+    `#Gefährdungshaftung mit Exkulpationsmöglichkeit.`,
+    `Ausschließlich Gefährdungshaftung ohne Ausnahmen.`,
+    `Haftung nur für Sachschäden.`,
+    `Haftung nur bei Vorsatz.`,
+  ]),
+  q(`Welche Haftung gilt für Nutztiere, wie z.B. Blindenführhunde, nach § 833 Satz 2?`, [
+    `Gefährdungshaftung ohne Verschulden.`,
+    `#Verschuldenshaftung mit gesetzlich vermutetem Verschulden.`,
+    `Vollständige Haftungsfreistellung.`,
+    `Tieraufseherhaftung.`,
+  ]),
+  q(`Was regelt § 834 BGB?`, [
+    `Die Haftung des Tierhalters.`,
+    `#Die Haftung von Tieraufsehern, die vertraglich die Aufsicht übernehmen.`,
+    `Die Versicherungspflicht für Hundehalter.`,
+    `Die Haltung gefährlicher Hunderassen.`,
+  ]),
+  q(`Wer gilt als Tierhalter im Sinne von § 833 BGB?`, [
+    `Nur der Eigentümer des Tieres.`,
+    `Jede Person, die das Tier betreut, auch vorübergehend.`,
+    `#Wer die Sachherrschaft über das Tier besitzt und ein eigenes Interesse daran hat.`,
+    `Nur Tierheime.`,
+  ]),
+  q(`Was regelt § 833 BGB?`, [
+    `Die Haftung des Tieraufsehers.`,
+    `#Die Haftung des Tierhalters.`,
+    `Die Versicherungspflicht für Hunde.`,
+    `Die Einfuhr bestimmter Hunderassen.`,
+  ]),
+  q(`Welche Art der Haftung wird in § 833 BGB grundsätzlich formuliert?`, [
+    `Verschuldenshaftung.`,
+    `#Gefährdungshaftung.`,
+    `Vertragshaftung.`,
+    `Mitverschulden.`,
   ]),
 ];
